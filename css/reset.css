@@ -1,0 +1,90 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.icon-search {
+	border-radius: 6px;
+}
+
+.bola-amarela {
+	background-color:#FFCE1D;
+	width:70px;
+	border-radius:50px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+	border: solid #BE1E2D 4px;
+}
+.ico-racao {
+	width:100px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+}
+.ico-racao: hover {
+	width:120px;
+}
+.ico-ovo {
+	width:100px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+}
+.ico-pinto {
+	width:100px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+}#mo-wrapper .mo-content .row .large-12.columns .with-media.inner-post.mo-animate .large-12.columns.mo-animate #accordion .resp-tabs-container div .tabelas {
+	float: left;
+}
