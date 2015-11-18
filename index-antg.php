@@ -42,7 +42,7 @@
    
 </head>
 
-<body>
+<body><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.5";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
    <div id="mo-wrapper">
      <!-- <section id="panel">
          <div class="row">
@@ -248,15 +248,12 @@
                            </div>
                         </div>                        
                      </div>
-                  </li>                                    <li class="mo-animate" data-animate="fadeInLeft"  data-delay="500" >                     <div class="blog-columns">                        <div class="blog-media1">                              <div><img src="img/receitas/pudim.jpg" width="100%"  alt=""></div>                        </div>                        <div class="blog-content1">                           <p class="blog-date"><h5 style="color:#FFF; margin-left:10px;">• Receitas •</h5></p>                           <p><a href="receitas002.php">Pudim</a></p>                           <div class="blog-info">                              <div class="post-type">                                 <i class="icon-picture"></i>                              </div>                                                 </div>                        </div>                                             </div>                  </li>                  
+                  </li>                  <!--                  <li class="mo-animate" data-animate="fadeInLeft"  data-delay="500" >                     <div class="blog-columns">                        <div class="blog-media1">                              <div><img src="img/receitas/pudim.jpg" width="100%"  alt=""></div>                        </div>                        <div class="blog-content1">                           <p class="blog-date"><h5 style="color:#FFF; margin-left:10px;">• Receitas •</h5></p>                           <p><a href="receitas002.php">Pudim</a></p>                           <div class="blog-info">                              <div class="post-type">                                 <i class="icon-picture"></i>                              </div>                                                 </div>                        </div>                                             </div>                  </li>-->                  
                   
-                  <!--<li class="mo-animate" data-animate="fadeInRight" data-delay="600">
+                  <li class="mo-animate" data-animate="fadeInRight" data-delay="600">
                      <div class="blog-columns">
                         <div class="blog-media2">
-                           <img src="img/sample/video-cover.jpg" alt="">
-                           <a class="video-play fancybox-media" href="https://www.youtube.com/watch?v=9HLEM64keHA">
-                              <i class="icon-play"></i>
-                           </a>
+                           <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/1642862545956105/" data-width="200"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"><a href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"></a><p>Fazenda São Pedro.                           Tradição, tecnologia e qualidade.</p>Posted by <a href="https://www.facebook.com/fazendasaopedroam/">Fazenda São Pedro</a> on Quinta, 17 de setembro de 2015</blockquote></div></div>
                         </div>
                         <div class="blog-content2">
                            <p class="blog-date"><h5 style="color:#FFF; margin-left:10px;">• Vídeo •</h5></p>
@@ -270,7 +267,7 @@
                      </div>
                   </li>   
                   
-                  
+                  <!--
                   <li class="mo-animate" data-animate="fadeInLeft" data-delay="800">
                      <div class="blog-columns">                        
                         <div class="blog-content3">
