@@ -123,7 +123,7 @@
                   <li class="mo-animate" data-animate="fadeInLeft">
                      <i class="icon-phonealt"></i>
                      <p class="mo-tablet ptop gap" data-bottom="5">Telefone</p>
-                     <h4 class="gap" data-bottom="5">+55 92 3232-3232</h4>
+                     <h4 class="gap" data-bottom="5">+55 92 2121-4555</h4>
                   </li>
                   <li class="mo-animate" data-animate="fadeInLeft" data-delay="300">
                      <i class="icon-envelope"></i>
@@ -145,8 +145,7 @@
          <div class="row">
             <div class="large-6 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInLeft">
                <img src="img/fotos/foto-home1.jpg" alt="" class="img-left gap" data-bottom="30" />
-               <h4 class="mo-animate" data-animate="fadeInLeft">Fale com a gente</h4>
-               <p class="mo-animate" data-animate="fadeInDown">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>   
+               
             </div>
 
             <div class="large-6 medium-6 medium-potrait-12 columns">
@@ -156,7 +155,7 @@
                   <a data-component="alert" href="#" class="close">&times;</a>
                </div>
 
-               <form action="#" class="mo-animate" data-animate="fadeInDown">
+               <form action="#" class="mo-animate" data-animate="fadeInDown">               <h4 class="mo-animate" data-animate="fadeInLeft">Fale com a gente</h4>
                   <ul class="contact-form">
                      <li class="input-half left name-ico">
                         <input type="text" name="name" class="form-control" id="name" placeholder="Nome • Empresa">

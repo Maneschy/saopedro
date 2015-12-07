@@ -119,7 +119,7 @@
                      <h1 class="mo-animate" data-animate="fadeInDown">Mitos e verdades sobre o ovo</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                    A Fazenda São Pedro traz esta novidade para você!<br/><br/>                    Este ingrediente é muito usado em indústrias para preparar doces e salgados, mas vem ganhando espaço para quem cozinha bastante em casa. <br/><br/>                                               As aves são alimentadas diariamente por rações cuja produção é da própria fazenda. Os ovos são selecionados, sem a utilização de conservantes ou qualquer outro ingrediente, na pasteurização, às claras e as gemas juntas ou separadas são aquecidas e permanecem assim por um tempo. Esse processo elimina o risco de contaminação.                    
+                    A Fazenda São Pedro traz esta novidade para você!<br/><br/>                    Este ingrediente é muito usado em indústrias para preparar doces e salgados, mas vem ganhando espaço para quem cozinha bastante em casa. <br/><br/>                                               As aves são alimentadas diariamente com rações cuja produção é da própria fazenda. Os ovos são selecionados, sem a utilização de conservantes ou qualquer outro ingrediente, na pasteurização, às claras e as gemas juntas ou separadas são aquecidas e permanecem assim por um tempo. Esse processo elimina o risco de contaminação.                    
 
 
 </p>

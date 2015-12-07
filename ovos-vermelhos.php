@@ -170,9 +170,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF.
-A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.<br/><br/>
-Os produtos podem vir acondicionados em embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem pode conter de 6 a 30 ovos, dependendo do tipo de ovo e da necessidade do cliente. Veja abaixo as embalagens disponíveis para este produto.
+                            Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). A Fazenda produz e comercializa ovos de galinha pequenos, médios e grandes.<br/>                            Os produtos podem vir acondicionados em embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem pode conter de 6 a 30 ovos, de acordo com a solicitação do cliente. Veja as embalagens disponíveis para este produto.                            
 						</p>
                      </div><!-- FIM sobre o ovo -->
 

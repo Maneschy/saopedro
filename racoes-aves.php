@@ -150,7 +150,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Os ovos São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária dos veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF. A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.<br/><br/>                            Os produtos transportados podem vir acondicionados e embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem armazena entre 6, 8, 18 a 30 ovos, dependendo do tipo de ovo e da necessidade do cliente. Veja abaixo as embalagens disponíveis para este produto.
+                            A Fazenda São Pedro possui uma Fábrica de Ração que produz ração diariamente para aves e peixes.<br/>                            Os grãos são certificados e registrados pelo Ministério da Agricultura, Pecuária e Abastecimento (MAPA). A comercialização dos produtos da Fazenda São Pedro é realizada por uma equipe que atende grande o Estado do Amazonas e Estados vizinhos.                            
 						</p>
                      </div><!-- FIM sobre o ovo -->
 

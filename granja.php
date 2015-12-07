@@ -116,9 +116,9 @@
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
                   <div class="blog-media">           
                      <ul class="blog-slide">      
-                        <li><img src="img/slide/slide1.jpg" w alt=""/></li>       
-                        <li><img src="img/slide/slide2.jpg" w alt=""/></li>       
-                        <li><img src="img/slide/slide3.jpg" w alt=""/></li>                                                                                                
+                        <li><img src="img/fotos/fabrica02.jpg" w alt=""/></li>       
+                        <li><img src="img/fotos/fabrica03.jpg" w alt=""/></li>       
+                        <li><img src="img/fotos/fabrica04.jpg" w alt=""/></li>                                                                                                
                      </ul>
                   </div>
                   <div class="post-content">

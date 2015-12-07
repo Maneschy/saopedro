@@ -168,16 +168,16 @@
             <div class="large-4 medium-4 medium-potrait-12 columns mo-animate" data-animate="fadeInDown" data-delay="400">
                <div class="feature">
                <a href="ovos-brancos.php"><div class="ico-ovo"><img src="img/ico-ovo.png"> </div> </a>   
-                  <h4>Ovos de Qualidade</h4> <!--
-                  <p>Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum sed perspiciatis omnis</p>-->
+                  <h4>Ovos de Qualidade</h4> 
+                  <p>Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF. A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.</p>
                </div>
             </div>
 
             <div class="large-4 medium-4 medium-potrait-12 columns mo-animate" data-animate="fadeInDown" data-delay="400">
                <div class="feature">
                   <a href="racoes-peixes.php"><div class="ico-pinto"><img src="img/ico-peixe.png"> </div>   </a>
-                  <h4>Psicultura</h4> <!--
-                  <p>Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum sed perspiciatis omnis</p>-->
+                  <h4>Piscicultura</h4> 
+                  <p>A Fazenda São Pedro possui uma das maiores e melhores estruturas de produção de peixes da região Norte. O Controle de qualidade é rigorosíssimo, com um sistema de monitoramento do oxigênio e controle de temperatura da água, que tem como objetivo minimizar ao máximo o stress dos peixes.</p>
                </div>
             </div>
 
@@ -185,8 +185,8 @@
                <div class="feature">
                  <a href="racoes-aves.php"> <div class="ico-racao"><img src="img/ico-racao.png"> </div></a>
                       
-                  <h4>Rações Eficientes</h4> <!--
-                  <p>Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum sed perspiciatis omnis</p>-->
+                  <h4>Rações Eficientes</h4> 
+                  <p>Oferecemos rações de alta qualidade, para uma grande variedade de animais.<br/>                  Atendemos tanto produções de grande escala como pequenas propriedades.                  </p>
                </div>
             </div>
         </div>               
@@ -252,18 +252,15 @@
                   
                   <li class="mo-animate" data-animate="fadeInRight" data-delay="600">
                      <div class="blog-columns">
-                        <div class="blog-media2">
-                           <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/1642862545956105/" data-width="200"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"><a href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"></a><p>Fazenda São Pedro.                           Tradição, tecnologia e qualidade.</p>Posted by <a href="https://www.facebook.com/fazendasaopedroam/">Fazenda São Pedro</a> on Quinta, 17 de setembro de 2015</blockquote></div></div>
-                        </div>
-                        <div class="blog-content2">
+                                                                                 <div class="fb-video" data-href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/" data-width="395"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"><a href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"></a><p>Fazenda São Pedro.                           Tradição, tecnologia e qualidade.</p>Posted by <a href="https://www.facebook.com/fazendasaopedroam/">Fazenda São Pedro</a> on Quinta, 17 de setembro de 2015</blockquote></div></div>                                                      
+                       <div class="blog-content1">                       <br/>
                            <p class="blog-date"><h5 style="color:#FFF; margin-left:10px;">• Vídeo •</h5></p>
-                           <p><a href="#">Fazenda São Pedro no Amazônia Rural</a></p>
+                           <p><a href="#">Nosso Vídeo institucional</a></p>
                            <div class="blog-info">
                               <div class="post-type">
                                  <i class="icon-film"></i>
                               </div>                    
-                           </div>
-                        </div>                        
+                           </div>  </div>                   
                      </div>
                   </li>   
                   

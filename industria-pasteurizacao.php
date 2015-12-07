@@ -251,10 +251,10 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		      		                
 		      		                <li class="web print">
 		      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-		      		                    <img src="img/sem-foto.jpg" alt="" />
+		      		                    <img src="img/fotos/laboratorio/labo-1.jpg" alt="" />
 		      		                    <div class="mask"></div>
 		      		                    <div class="content">
-		      		                      <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		      		                      <a class="fancybox preview" href="img/fotos/laboratorio/labo-1.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
 		      		                    </div>
 		      		                  </div>
 		      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
@@ -266,10 +266,10 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		      		                
 		      		                  <li class="web print">
 		      		                    <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-		      		                      <img src="img/sem-foto.jpg" alt="" />
+		      		                      <img src="img/fotos/laboratorio/labo-2.jpg" alt="" />
 		      		                      <div class="mask"></div>
 		      		                      <div class="content">
-		      		                        <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		      		                        <a class="fancybox preview" href="img/fotos/laboratorio/labo-2.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
 		      		                      </div>
 		      		                    </div>
 		      		                    <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
@@ -281,10 +281,10 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		      		                  
 		      		                    <li class="web print">
 		      		                      <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-		      		                        <img src="img/sem-foto.jpg" alt="" />
+		      		                        <img src="img/fotos/laboratorio/labo-3.jpg" alt="" />
 		      		                        <div class="mask"></div>
 		      		                        <div class="content">
-		      		                          <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		      		                          <a class="fancybox preview" href="img/fotos/laboratorio/labo-3.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
 		      		                        </div>
 		      		                      </div>
 		      		                      <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
@@ -296,10 +296,10 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		      		                    
 		      		                      <li class="web print">
 		      		                        <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-		      		                          <img src="img/sem-foto.jpg" alt="" />
+		      		                          <img src="img/fotos/laboratorio/labo-4.jpg" alt="" />
 		      		                          <div class="mask"></div>
 		      		                          <div class="content">
-		      		                            <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		      		                            <a class="fancybox preview" href="img/fotos/laboratorio/labo-4.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
 		      		                          </div>
 		      		                        </div>
 		      		                        <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
@@ -308,7 +308,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		      		                          </div>
 		      		                        </div>
 		      		                      </li>
-		      		                      
+		      		                      		      		                        <li class="web print">		      		                          <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">		      		                            <img src="img/fotos/laboratorio/labo-5.jpg" alt="" />		      		                            <div class="mask"></div>		      		                            <div class="content">		      		                              <a class="fancybox preview" href="img/fotos/laboratorio/labo-5.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>		      		                            </div>		      		                          </div>		      		                          <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">		      		                            <div class="text">		      		                              <h5>Legenda da foto</h5>		      		                            </div>		      		                          </div>		      		                        </li>		      		                        		      		                          <li class="web print">		      		                            <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">		      		                              <img src="img/fotos/laboratorio/labo-6.jpg" alt="" />		      		                              <div class="mask"></div>		      		                              <div class="content">		      		                                <a class="fancybox preview" href="img/fotos/laboratorio/labo-6.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>		      		                              </div>		      		                            </div>		      		                            <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">		      		                              <div class="text">		      		                                <h5>Legenda da foto</h5>		      		                              </div>		      		                            </div>		      		                          </li>		      		                          		      		                            <li class="web print">		      		                              <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">		      		                                <img src="img/fotos/laboratorio/labo-7.jpg" alt="" />		      		                                <div class="mask"></div>		      		                                <div class="content">		      		                                  <a class="fancybox preview" href="img/fotos/laboratorio/labo-7.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>		      		                                </div>		      		                              </div>		      		                              <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">		      		                                <div class="text">		      		                                  <h5>Legenda da foto</h5>		      		                                </div>		      		                              </div>		      		                            </li>		      		                            		      		                              <li class="web print">		      		                                <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">		      		                                  <img src="img/fotos/laboratorio/labo-8.jpg" alt="" />		      		                                  <div class="mask"></div>		      		                                  <div class="content">		      		                                    <a class="fancybox preview" href="img/fotos/laboratorio/labo-8.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>		      		                                  </div>		      		                                </div>		      		                                <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">		      		                                  <div class="text">		      		                                    <h5>Legenda da foto</h5>		      		                                  </div>		      		                                </div>		      		                              </li>		      		                              
 		      		               
 		      		                
 		      		              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->

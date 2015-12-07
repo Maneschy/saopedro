@@ -116,8 +116,8 @@
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
                   <div class="blog-media">           
                      <ul class="blog-slide">            
-                        <li><img src="img/slide/slide2.jpg" w alt=""/></li>       
-                        <li><img src="img/slide/slide3.jpg" w alt=""/></li>                                                                                                
+                        <li><img src="img/fotos/incubatorio/incubatorio081.jpg" w alt=""/></li>       
+                        <li><img src="img/fotos/incubatorio/incubatorio091.jpg" w alt=""/></li>                                                                                                
                      </ul>
                   </div>
                   <div class="post-content">

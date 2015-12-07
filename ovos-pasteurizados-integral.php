@@ -275,7 +275,7 @@
                 </tr>
                 <tr > 
                   <td height="40" width="85"> 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 gr</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 g</b></div>
                   </td>
                   <td height="40" width="98"> 
                     <div align="center">02 ovos </div>
@@ -283,7 +283,7 @@
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 gr</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 g</b></div>
                   </td>
                   <td height="34" width="98" > 
                     <div align="center">04 ovos</div>
@@ -291,7 +291,7 @@
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 gr</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 g</b></div>
                   </td>
                   <td height="34" width="98" > 
                     <div align="center">06 ovos</div>
@@ -299,7 +299,7 @@
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 gr</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 g</b></div>
                   </td>
                   <td height="34" width="98" > 
                     <div align="center">08 ovos</div>
@@ -307,7 +307,7 @@
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 gr</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 g</b></div>
                   </td>
                   <td height="34" width="98" > 
                     <div align="center">10 ovos</div>
@@ -315,16 +315,16 @@
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 gr</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 g</b></div>
                   </td>
                   <td height="34" width="98" > 
                     <div align="center">15 ovos</div>
                   </td>
                 </tr>
               </table>
-                <p><b><strong style="color:#D3252F">01 CLARA</strong> = 33 gr</b></p> 
+                <p><b><strong style="color:#D3252F">01 CLARA</strong> = 33 g</b></p> 
             </div>
-
+<div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">    <h4 style="font-weight:900;">Veja o vídeo </h4>   		         		         		      <iframe width="560" height="315" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>   		         		         		               	</div>
 			</div><!--// "large-12 columns mo-animate" -->
             	<div class="large-12 columns">
                		<hr>
