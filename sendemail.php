@@ -13,17 +13,17 @@
 * Variables you can change
 *************************/
 
-$mailto   = "hello@prodigystudio.net"; // Enter your mail addres here. 
+$mailto   = "thiago@maneschy.com"; // Enter your mail addres here. 
 $name     = ucwords($_POST['name']); 
 $subject  = $_POST['subject']; // Enter the subject here.
 $email    = $_POST['email'];
 $message  = $_POST['message'];
-
+    echo $_POST['name'];    exit;    
 	if(strlen($_POST['name']) < 1 ){
 		echo  'email_error';
 	}
 	
-  else if(strlen($email) < 1 ) {
+  else if(strlen($subject) < 1 ) {
 		echo 'email_error';
 	}
 
@@ -45,7 +45,7 @@ $message  = $_POST['message'];
 		"Email : " .
 		$email .
 		"\n\n" .
-		"Message : " .
+		"$subject : " .
 		"\n" .
 		$message .
 		"\n" .

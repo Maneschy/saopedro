@@ -155,7 +155,7 @@
                   <a data-component="alert" href="#" class="close">&times;</a>
                </div>
 
-               <form action="#" class="mo-animate" data-animate="fadeInDown">               <h4 class="mo-animate" data-animate="fadeInLeft">Fale com a gente</h4>
+               <form action="sendemail.php" class="mo-animate" data-animate="fadeInDown">               <h4 class="mo-animate" data-animate="fadeInLeft">Fale com a gente</h4>
                   <ul class="contact-form">
                      <li class="input-half left name-ico">
                         <input type="text" name="name" class="form-control" id="name" placeholder="Nome • Empresa">
@@ -170,7 +170,7 @@
                         <textarea name="message" class="form-control" id="message" rows="8" placeholder="Mensagem"></textarea>
                      </li>
                      <li>
-                        <button class="button yellow mo-animate" data-animate="bounceIn" id="buttonsend">Enviar</button>
+                        <button class="button yellow mo-animate" data-animate="bounceIn" id="">Enviar</button>
                         <span class="loading"></span>
                      </li>
                   </ul>
