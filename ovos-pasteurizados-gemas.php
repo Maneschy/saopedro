@@ -322,8 +322,13 @@
                 </tr>
               </table>
                 <p><b><strong style="color:#D3252F">01 GEMA</strong> = 17 g</b></p> 
+<<<<<<< Updated upstream
             </div>            
 <div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">    <h4 style="font-weight:900;">Veja o vídeo </h4>   		         		         		      <iframe width="560" height="315" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>   		         		         		               	</div>
+=======
+            </div>
+
+>>>>>>> Stashed changes
 			</div><!--// "large-12 columns mo-animate" -->
             	<div class="large-12 columns">
                		<hr>
