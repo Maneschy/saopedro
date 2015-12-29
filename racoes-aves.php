@@ -112,7 +112,7 @@
             		<hr>
            		</div> 
                 
-                <div style="text-align:left;"> <img style="float:left; margin-right:20px; margin-top:-15px;" src="img/produtos/logo-racoes.png">                   <a class="button small radius yellow" href="#">AVES </a>                    <a class="button small radius red" href="racoes-caipira.php"> CAIPIRA • PELETIZADA </a>                    <a class="button small radius red" href="racoes-peixes.php">PEIXE</a><br/>                                    									<a class="button tiny radius gray">embalagem: </a>                                                       <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovos-vermelhos" title="Ração 50kg">50 kilos </a>                                                                                                              <a class="button tiny radius yellow fancybox preview" href="img/produtos/racao/racao-peixe.jpg" data-fancybox-group="25k" title="Ração 25kg">25 kilos </a>                                                                                                                                                                     <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovo" title="Ração 5k">05 kilos </a>                                    </div>
+                <div style="text-align:left;"> <img style="float:left; margin-right:20px; margin-top:-15px;" src="img/produtos/logo-racoes.png">                   <a class="button small radius yellow" href="#">AVES </a>                    <a class="button small radius red" href="racoes-caipira.php"> CAIPIRA • PELETIZADA </a>                    <a class="button small radius red" href="racoes-peixes.php">PEIXE</a><br/>                                    									<a class="button tiny radius gray">embalagem: </a>                                                       <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves50kg.jpg" data-fancybox-group="aves" title="Ração 50kg">50 kilos </a>                                                                                                              <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves25kg.jpg" data-fancybox-group="aves" title="Ração 25kg">25 kilos </a>                                                                                                                                                                     <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves5kg.jpg" data-fancybox-group="aves" title="Ração 5k">05 kilos </a>                                    </div>
                 
           <div class="large-12 columns" style="margin-top:-10px;">
             		<hr>
@@ -123,8 +123,8 @@
                     <h3>Rações para aves</h3>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
-                    		<li><img src="img/slide/fabrica-racoes3.jpg" alt=""/></li>
-                        		<li><img src="img/slide/fabrica-racoes2.jpg" w alt=""/></li>
+                    		<li><img src="img/slide/racao-aves01.jpg" alt=""/></li>
+                        		<li><img src="img/slide/racao-aves02.jpg" w alt=""/></li>                        			<li><img src="img/slide/racao-aves03.jpg" w alt=""/></li>
                      		</ul>
                   		</div>
            		  <div class="large-12 columns" id="embalagens">
@@ -150,7 +150,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            A Fazenda São Pedro possui uma Fábrica de Ração que produz ração diariamente para aves e peixes.<br/>                            Os grãos são certificados e registrados pelo Ministério da Agricultura, Pecuária e Abastecimento (MAPA). A comercialização dos produtos da Fazenda São Pedro é realizada por uma equipe que atende grande o Estado do Amazonas e Estados vizinhos.                            
+                           <strong>FASE INICIAL DAS AVES</strong><br/></br/>                           Fornecer uma ração adequada para as pintainhas, nas primeiras semanas de vida é fundamental para um bom desenvolvimento das aves em um processo de criação de frango caipira. É nesse período que o avicultor deve garantir aos pintinhos uma alimentação que contenha os nutrientes necessários, para que as aves se desenvolvam de forma equilibrada e alcance um peso ideal.<br/></br/>                           Nos primeiros dias de vida das pintainhas deve ser oferecido um alimento que contenha os níveis de proteína, energia, vitaminas, aminoácidos e minerais em quantidades adequadas de forma que atenda as exigências nutricionais das aves.<br/></br/>                                                      <strong>FASE ADULTA DAS AVES</strong><br/></br/>                           A ração de crescimento deve ser oferecida as aves até os cinco meses, devendo então ser substituída pela ração de postura. Isso vale tanto para as fêmeas quanto para os machos, pois esta ração ajuda a aumentar a fertilidade.<br/></br/>                           A alimentação pode ser complementada com milho, verduras (com exceção da alface), cascas de frutas e legumes.                                                       
 						</p>
                      </div><!-- FIM sobre o ovo -->
 
@@ -237,51 +237,7 @@
             		                </li>
             		                
             		                
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao03.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao03.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao04.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao05.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao05.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
+            		               
             		                
             		                <li class="web print">
             		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">

@@ -110,14 +110,14 @@
                 
                 <div style="text-align:left;"> <img style="float:left; margin-right:20px; margin-top:-15px;" src="img/produtos/logo-ovos-produtos.png">
                  	<a class="button small radius yellow" href="#"> GEMAS PASTEURIZADAS </a> 
-                 	<a class="button small radius red" href="ovos-pasteurizados-claras.html"> CLARAS PASTEURIZADAS </a>
-                 	<a class="button small radius red" href="ovos-pasteurizados-integral.html"> INTEGRAL PASTEURIZADO (gema+clara) </a> 
+                 	<a class="button small radius red" href="ovos-pasteurizados-claras.php"> CLARAS PASTEURIZADAS </a>
+                 	<a class="button small radius red" href="ovos-pasteurizados-integral.php"> INTEGRAL PASTEURIZADO (gema+clara) </a> 
                  <br/>
                 
-                	<a class="button tiny radius gray">Embalagens com: </a> 
-                    <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="gema" title="Embalagem com 350 grams de gema pasteurizada">350 gramas </a>  
+                	<a class="button tiny radius gray">Embalagens com: </a> <!--
+                    <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="gema" title="Embalagem com 350 grams de gema pasteurizada">350 gramas </a> --> 
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-1kilo.jpg" data-fancybox-group="gemas" title="Embalagem com 01 kilo de gema pasteurizada">01 kilo </a>  
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-5kilos.jpg" data-fancybox-group="gemas" title="Embalagem com 05 kilos de gema pasteurizada">05 kilos </a>  
+                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/gema-5k.jpg" data-fancybox-group="gemas" title="Embalagem com 05 kilos de gema pasteurizada">05 kilos </a>  
                 
               </div>
                 
@@ -130,7 +130,7 @@
                     <h3>Gemas Pasteurizadas • Líquidas</h3>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                                                   
-                        		<li><img src="img/slide/embalagem-pasteurizadas-5k.jpg" alt=""/></li>
+                        		<li><img src="img/slide/gema-liquido-5kilos.jpg" alt=""/></li>
                         		<li><img src="img/slide/embalagem-pasteurizadas.jpg" w alt=""/></li>
                         		<li><img src="img/slide/gemas-pasteurizadas.jpg" alt=""/></li> 
                      		</ul>
@@ -322,13 +322,13 @@
                 </tr>
               </table>
                 <p><b><strong style="color:#D3252F">01 GEMA</strong> = 17 g</b></p> 
-<<<<<<< Updated upstream
+
             </div>            
 <div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">    <h4 style="font-weight:900;">Veja o vídeo </h4>   		         		         		      <iframe width="560" height="315" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>   		         		         		               	</div>
-=======
+
             </div>
 
->>>>>>> Stashed changes
+
 			</div><!--// "large-12 columns mo-animate" -->
             	<div class="large-12 columns">
                		<hr>

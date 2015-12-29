@@ -126,7 +126,7 @@
                     <h3>Pintainha tipo 02</h3>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
-                        		<li><img src="img/slide/pintos-slide02.jpg" w alt=""/></li>
+                        		<li><img src="img/slide/pintos-slide02.jpg" w alt=""/></li>                        		<li><img src="img/slide/pintos-slide022.jpg" w alt=""/></li>
                      		</ul>
                   		</div>
            		  <div class="large-12 columns" id="embalagens">
@@ -152,7 +152,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF. A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.<br/><br/>                                                        Os produtos podem vir acondicionados em embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem pode conter de 6, 8, 18 a 30 ovos, dependendo do tipo de ovo e da solicitação do cliente. Veja abaixo as embalagens disponíveis para este produto.                            
+                            Fornecer uma ração adequada para as pintainhas, nas primeiras semanas de vida é fundamental para um bom desenvolvimento das aves em um processo de criação de frango caipira. É nesse período que o avicultor deve garantir aos pintinhos uma alimentação que contenha os nutrientes necessários para que a ave se desenvolva de forma equilibrada e alcance um peso ideal.<br/><br/>                            Nos primeiros dias de vida das pintainhas deve ser oferecido um alimento que contenha os níveis de proteína, energia, vitaminas, aminoácidos e minerais em quantidades adequadas de forma que atenda as exigências nutricionais das aves.                                                                                    
 						</p>
                      </div><!-- FIM sobre o ovo -->
 

@@ -117,13 +117,10 @@
                  <a class="button small radius red" href="racoes-caipira.php"> CAIPIRA • PELETIZADA </a> 
                  <a class="button small radius yellow" href="#">PEIXE</a><br/>
                 
-                									<a class="button tiny radius gray">embalagem: </a> 
-                                                    <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovos-vermelhos" title="Ração 50kg">50 kilos </a>  
+                									<a class="button tiny radius gray">embalagem: </a>  
                                                     
-                                                    <a class="button tiny radius yellow fancybox preview" href="img/produtos/racao/racao-peixe.jpg" data-fancybox-group="25k" title="Ração 25kg">25 kilos </a>
+                                                    <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-peixe/racao-peixe25kg.jpg" data-fancybox-group="25k" title="Ração 25kg">25 kilos </a>
                                                        
-                                                    
-                                                    <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovo" title="Ração 5k">05 kilos </a>  
                 
               </div>
                 
@@ -133,11 +130,11 @@
                 
 				<div class="large-12 columns">
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown"> 
-                    <h3>Ração para Peixes • Pisicultura</h3>                                   
+                    <h3>Ração para Peixes • Piscicultura</h3>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
-                        		<li><img src="img/slide/fabrica-racoes2.jpg" w alt=""/></li>
-                        		<li><img src="img/slide/fabrica-racoes3.jpg" alt=""/></li>
+                        		<li><img src="img/slide/Peixe-destaque-1.jpg" w alt=""/></li>
+                        		<li><img src="img/slide/Peixe-destaque-2.jpg" alt=""/></li>                        		<li><img src="img/slide/Peixe-destaque-3.jpg" alt=""/></li>
                      		</ul>
                   		</div>
            		  <div class="large-12 columns" id="embalagens">
@@ -163,7 +160,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Os ovos São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária dos veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF. A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.<br/><br/>                            Os produtos transportados podem vir acondicionados e embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem armazena entre 6, 8, 18 a 30 ovos, dependendo do tipo de ovo e da necessidade do cliente. Veja abaixo as embalagens disponíveis para este produto.                            
+                            Na fase inicial de desenvolvimento dos peixes recomenda-se o uso de uma ração de 34% de proteína. É importante que o alimento seja distribuído de maneira uniforme pelo tanque. A quantidade de ração fornecida aos peixes varia de acordo com a densidade de estocagem, a espécie, o tipo de ração, a fase de crescimento, as condições ambientais do viveiro e com a condição de saúde dos animais.<br/><br/>                            O objetivo de alimentar os peixes é provê-los de forma econômica uma nutrição adequada para o seu crescimento e perfeito desenvolvimento. Para isto, devem ser utilizados alimentos de qualidade e nas quantidades corretas, além de empregar técnicas de alimentação apropriadas.                             Os peixes, por serem organismos aquáticos, precisam que as rações sejam processadas, para reduzirem as perdas de nutrientes por lixiviação. As formas físicas nas quais pode se fornecer a ração aos peixes são: <br/>Ração na fase inicial 34% de proteína, Ração para crescimento I 28% de proteína e Ração para o crescimento II 25% de proteína.                                                        
 						</p>
                      </div><!-- FIM sobre o ovo -->
 
@@ -178,7 +175,7 @@
 				</div>		
 			</div>               
 		</section>
-                        <section class="mo-content">            	         <div class="row">            	            <div class="large-12 columns gap" data-top="20">            	               <h3 class="mo-animate" data-animate="fadeInLeft" style="font-family:Lobster; color:#ED1C24;">Área de pisicultura</h3>            	            	               <ul class="pf-container large-block-grid-4 medium-block-grid-4 no-wrap">            	                           	                            	                <li class="web print">            	                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                    <img src="img/fotos/pisicultura/pisic-1.jpg" alt="" />            	                    <div class="mask"></div>            	                    <div class="content">            	                      <a class="fancybox preview" href="img/fotos/pisicultura/pisic-1.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                    </div>            	                  </div>            	                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                    <div class="text">            	                      <h5>Legenda da foto</h5>            	                    </div>            	                  </div>            	                </li>            	                            	                  <li class="web print">            	                    <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                      <img src="img/fotos/pisicultura/pisic-2.jpg" alt="" />            	                      <div class="mask"></div>            	                      <div class="content">            	                        <a class="fancybox preview" href="img/fotos/pisicultura/pisic-2.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                      </div>            	                    </div>            	                    <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                      <div class="text">            	                        <h5>Legenda da foto</h5>            	                      </div>            	                    </div>            	                  </li>            	                              	                    <li class="web print">            	                      <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                        <img src="img/fotos/pisicultura/pisic-3.jpg" alt="" />            	                        <div class="mask"></div>            	                        <div class="content">            	                          <a class="fancybox preview" href="img/fotos/pisicultura/pisic-3.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                        </div>            	                      </div>            	                      <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                        <div class="text">            	                          <h5>Legenda da foto</h5>            	                        </div>            	                      </div>            	                    </li>            	                                	                      <li class="web print">            	                        <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                          <img src="img/fotos/pisicultura/pisic-4.jpg" alt="" />            	                          <div class="mask"></div>            	                          <div class="content">            	                            <a class="fancybox preview" href="img/fotos/pisicultura/pisic-4.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                          </div>            	                        </div>            	                        <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                          <div class="text">            	                            <h5>Legenda da foto</h5>            	                          </div>            	                        </div>            	                      </li>            	                                  	                        <li class="web print">            	                          <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                            <img src="img/fotos/pisicultura/pisic-5.jpg" alt="" />            	                            <div class="mask"></div>            	                            <div class="content">            	                              <a class="fancybox preview" href="img/fotos/pisicultura/pisic-5.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                            </div>            	                          </div>            	                          <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                            <div class="text">            	                              <h5>Legenda da foto</h5>            	                            </div>            	                          </div>            	                        </li>            	                                    	                          <li class="web print">            	                            <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                              <img src="img/fotos/pisicultura/pisic-6.jpg" alt="" />            	                              <div class="mask"></div>            	                              <div class="content">            	                                <a class="fancybox preview" href="img/fotos/pisicultura/pisic-6.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                              </div>            	                            </div>            	                            <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                              <div class="text">            	                                <h5>Legenda da foto</h5>            	                              </div>            	                            </div>            	                          </li>            	                                      	                            <li class="web print">            	                              <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                                <img src="img/fotos/pisicultura/pisic-7.jpg" alt="" />            	                                <div class="mask"></div>            	                                <div class="content">            	                                  <a class="fancybox preview" href="img/fotos/pisicultura/pisic-7.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                                </div>            	                              </div>            	                              <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                                <div class="text">            	                                  <h5>Legenda da foto</h5>            	                                </div>            	                              </div>            	                            </li>            	                                        	                              <li class="web print">            	                                <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                                  <img src="img/fotos/pisicultura/pisic-8.jpg" alt="" />            	                                  <div class="mask"></div>            	                                  <div class="content">            	                                    <a class="fancybox preview" href="img/fotos/pisicultura/pisic-8.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                                  </div>            	                                </div>            	                                <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                                  <div class="text">            	                                    <h5>Legenda da foto</h5>            	                                  </div>            	                                </div>            	                              </li>            	                                          	                           	                            	              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->            	              </ul>             	            </div>            	                                	         </div>            	                     	      </section>            	      <hr/>
+                        <section class="mo-content">            	         <div class="row">            	            <div class="large-12 columns gap" data-top="20">            	               <h3 class="mo-animate" data-animate="fadeInLeft" style="font-family:Lobster; color:#ED1C24;">Área de piscicultura</h3>            	            	               <ul class="pf-container large-block-grid-4 medium-block-grid-4 no-wrap">            	                           	                            	                <li class="web print">            	                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                    <img src="img/fotos/pisicultura/pisic-1.jpg" alt="" />            	                    <div class="mask"></div>            	                    <div class="content">            	                      <a class="fancybox preview" href="img/fotos/pisicultura/pisic-1.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                    </div>            	                  </div>            	                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                    <div class="text">            	                      <h5>Legenda da foto</h5>            	                    </div>            	                  </div>            	                </li>            	                            	                  <li class="web print">            	                    <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                      <img src="img/fotos/pisicultura/pisic-2.jpg" alt="" />            	                      <div class="mask"></div>            	                      <div class="content">            	                        <a class="fancybox preview" href="img/fotos/pisicultura/pisic-2.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                      </div>            	                    </div>            	                    <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                      <div class="text">            	                        <h5>Legenda da foto</h5>            	                      </div>            	                    </div>            	                  </li>            	                              	                    <li class="web print">            	                      <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                        <img src="img/fotos/pisicultura/pisic-3.jpg" alt="" />            	                        <div class="mask"></div>            	                        <div class="content">            	                          <a class="fancybox preview" href="img/fotos/pisicultura/pisic-3.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                        </div>            	                      </div>            	                      <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                        <div class="text">            	                          <h5>Legenda da foto</h5>            	                        </div>            	                      </div>            	                    </li>            	                                	                      <li class="web print">            	                        <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                          <img src="img/fotos/pisicultura/pisic-4.jpg" alt="" />            	                          <div class="mask"></div>            	                          <div class="content">            	                            <a class="fancybox preview" href="img/fotos/pisicultura/pisic-4.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                          </div>            	                        </div>            	                        <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                          <div class="text">            	                            <h5>Legenda da foto</h5>            	                          </div>            	                        </div>            	                      </li>            	                                  	                        <li class="web print">            	                          <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                            <img src="img/fotos/pisicultura/pisic-5.jpg" alt="" />            	                            <div class="mask"></div>            	                            <div class="content">            	                              <a class="fancybox preview" href="img/fotos/pisicultura/pisic-5.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                            </div>            	                          </div>            	                          <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                            <div class="text">            	                              <h5>Legenda da foto</h5>            	                            </div>            	                          </div>            	                        </li>            	                                    	                          <li class="web print">            	                            <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                              <img src="img/fotos/pisicultura/pisic-6.jpg" alt="" />            	                              <div class="mask"></div>            	                              <div class="content">            	                                <a class="fancybox preview" href="img/fotos/pisicultura/pisic-6.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                              </div>            	                            </div>            	                            <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                              <div class="text">            	                                <h5>Legenda da foto</h5>            	                              </div>            	                            </div>            	                          </li>            	                                      	                            <li class="web print">            	                              <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                                <img src="img/fotos/pisicultura/pisic-7.jpg" alt="" />            	                                <div class="mask"></div>            	                                <div class="content">            	                                  <a class="fancybox preview" href="img/fotos/pisicultura/pisic-7.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                                </div>            	                              </div>            	                              <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                                <div class="text">            	                                  <h5>Legenda da foto</h5>            	                                </div>            	                              </div>            	                            </li>            	                                        	                              <li class="web print">            	                                <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">            	                                  <img src="img/fotos/pisicultura/pisic-8.jpg" alt="" />            	                                  <div class="mask"></div>            	                                  <div class="content">            	                                    <a class="fancybox preview" href="img/fotos/pisicultura/pisic-8.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>            	                                  </div>            	                                </div>            	                                <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">            	                                  <div class="text">            	                                    <h5>Legenda da foto</h5>            	                                  </div>            	                                </div>            	                              </li>            	                                          	                           	                            	              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->            	              </ul>             	            </div>            	                                	         </div>            	                     	      </section>            	      <hr/>
             
             <section class="mo-content">
             		         <div class="row">
@@ -197,21 +194,6 @@
             		                    </div>
             		                  </div>
             		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-            		                    <div class="text">
-            		                      <h5>Legenda da foto</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="600">
-            		                    <img src="img/fotos/fabrica03.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/fotos/fabrica03.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="700">
             		                    <div class="text">
             		                      <h5>Legenda da foto</h5>
             		                    </div>
@@ -249,112 +231,9 @@
             		                  </div>
             		                </li>
             		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao02.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao02.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
+            		                          	
             		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao03.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao03.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao04.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao05.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao05.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao06.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao06.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao07.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao07.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao08.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao08.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                
+            		                          		                
             		                
             		              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->
             		              </ul> 

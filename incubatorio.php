@@ -116,16 +116,15 @@
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
                   <div class="blog-media">           
                      <ul class="blog-slide">            
-                        <li><img src="img/fotos/incubatorio/incubatorio081.jpg" w alt=""/></li>       
-                        <li><img src="img/fotos/incubatorio/incubatorio091.jpg" w alt=""/></li>                                                                                                
+                        <li><img src="img/slide/incubatorio-slide.jpg" w alt=""/></li>       
+                        <li><img src="img/slide/incubatorio12.jpg" w alt=""/></li>                                 <li><img src="img/slide/incubatorio01.jpg" w alt=""/></li>                                                                                              
                      </ul>
                   </div>
                   <div class="post-content">
                      <h1 class="mo-animate" data-animate="fadeInDown">Incubatório</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     A Fazenda São Pedro possui um sistema de climatização e automação total no seu incubatório para proporcionar sempre o melhor em termos de qualidade e genética do produto final.
-
+                    Os ovos São Pedro são classificados, selecionados e transportados diariamente ao incubatório, por meio de transporte climatizado.                    Fatores como manejo e estocagem dos ovos, manejo de incubadora, nascedouros e condições de manejo do nascimento até a entrega das pintainhas na granja, exercem influência direta sobre a taxa de eclosão dos ovos, bem como sobre a qualidade da pintainha de um dia. O sucesso da incubação é obtido quando todos esses fatores são criteriosamente acompanhados e controlados.<br/><br/>                    A Fazenda São Pedro possui um sistema de climatização e automação total no seu incubatório, para proporcionar, sempre, o melhor em termos de qualidade e genética do produto final.                    
 </p>
                   </div>
                   
@@ -167,20 +166,6 @@
       		                  </div>
       		                </li>
       		                
-							<li class="web print">
-      		                	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-      		                    	<img src="img/fotos/incubatorio/incubatorio02.jpg" alt="" />
-      		                		<div class="mask"></div>
-      		                      	<div class="content">
-      		                        	<a class="fancybox preview" href="img/fotos/incubatorio/incubatorio02.jpg" data-fancybox-group="home" title="Incubatório São Pedro"><i class="icon-search"></i></a>
-      		                      	</div>
-      		                    </div>
-      		                    <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-      		                      	<div class="text">
-      		                        	<h5>Incubatório</h5>
-      		                		</div>
-      		                	</div>
-      		                </li>
       		                
       		                <li class="web print">
       		                  	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
@@ -212,20 +197,6 @@
       		                    	</div>
       		                    </li>
       		                    
-      		                    <li class="web print">
-      		                      	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-      		                          	<img src="img/fotos/incubatorio/incubatorio05.jpg" alt="" />
-      		                      		<div class="mask"></div>
-      		                            	<div class="content">
-      		                              	<a class="fancybox preview" href="img/fotos/incubatorio/incubatorio05.jpg" data-fancybox-group="home" title="Incubatório São Pedro"><i class="icon-search"></i></a>
-      		                            	</div>
-      		                          </div>
-      		                          <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-      		                            	<div class="text">
-      		                              	<h5>Incubatório</h5>
-      		                      		</div>
-      		                      	</div>
-      		                      </li>
       		                      
       		                      <li class="web print">
       		                        	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">

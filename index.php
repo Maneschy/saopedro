@@ -156,7 +156,7 @@
                   </div>    
                   <h2 class="gap mo-animate" data-animate="fadeInDown" data-delay="400" data-top="0" data-bottom="12" style="font-family:Lobster;">Tradição • Tecnologia • Qualidade</h2> 
                   <p class="mo-animate" data-animate="fadeInDown" data-delay="600" style="font-weight:300; font-size:18px;">
-                     A Fazenda São Pedro, empresa produtora de ovos desde 1986, situada no quilômetro três da rodovia BR - 174 (estrada que liga Manaus à Boa Vista) vêm trabalhando com afinco para consolidar-se no mercado, no qual é líder em seu ramo de atuação. O alcance dessa posição só foi possível graças aos investimentos em tecnologia e em pessoal qualificado. Seus núcleos de postura, classificação de ovos e seu setor de transporte estão muito bem aparelhados para que os ovos cheguem com qualidade até o consumidor.
+                     A Fazenda São Pedro é uma empresa produtora de ovos desde 1986, localizada no Km 3 da Rodovia BR-174 (Manaus - Boa Vista) está consolidada no mercado no qual atualmente é líder na Região Norte em seu ramo de atuação. O alcance desta posição só foi possível, graças aos investimentos em tecnologia e em pessoal qualificado.
                   </p>
                </div>
             </div>
@@ -169,7 +169,7 @@
                <div class="feature">
                <a href="ovos-brancos.php"><div class="ico-ovo"><img src="img/ico-ovo.png"> </div> </a>   
                   <h4>Ovos de Qualidade</h4> 
-                  <p>Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF. A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.</p>
+                  <p>Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com boas práticas de higiene na fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). A Fazenda produz e comercializa ovos de galinha pequenos, médios e grandes</p>
                </div>
             </div>
 
@@ -177,7 +177,7 @@
                <div class="feature">
                   <a href="racoes-peixes.php"><div class="ico-pinto"><img src="img/ico-peixe.png"> </div>   </a>
                   <h4>Piscicultura</h4> 
-                  <p>A Fazenda São Pedro possui uma das maiores e melhores estruturas de produção de peixes da região Norte. O Controle de qualidade é rigorosíssimo, com um sistema de monitoramento do oxigênio e controle de temperatura da água, que tem como objetivo minimizar ao máximo o stress dos peixes.</p>
+                  <p>A Fazenda São Pedro possui uma das maiores e melhores estruturas de produção de peixes da Região Norte. O Controle de qualidade é rigoroso, com um sistema de monitoramento do oxigênio e controle de temperatura da água, que tem como objetivo minimizar ao máximo o stress dos peixes.</p>
                </div>
             </div>
 
@@ -186,7 +186,7 @@
                  <a href="racoes-aves.php"> <div class="ico-racao"><img src="img/ico-racao.png"> </div></a>
                       
                   <h4>Rações Eficientes</h4> 
-                  <p>Oferecemos rações de alta qualidade, para uma grande variedade de animais.<br/>                  Atendemos tanto produções de grande escala como pequenas propriedades.                  </p>
+                  <p>A Fazenda São Pedro comercializa rações de qualidade para peixes e aves. Atendemos tanto produções de grande escala como pequenas propriedades.                  </p>
                </div>
             </div>
         </div>               
@@ -223,7 +223,7 @@
                         </div>
                         <div class="blog-content1">
                            <p class="blog-date"><h5 style="color:#FFF; margin-left:10px;">• Notícias •</h5></p>
-                           <p><a href="noticias001.php">Você já ouviu falar em ovo pasteurizado?</a></p>
+                           <p><a href="noticias_ovo_pasteurizado.php">Você já ouviu falar em ovo pasteurizado?</a></p>
                            <div class="blog-info">
                               <div class="post-type">
                                  <i class="icon-picture"></i>

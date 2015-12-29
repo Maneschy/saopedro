@@ -114,18 +114,15 @@
 			<div class="row">
 				<div class="large-12 columns">
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
-                  <div class="blog-media">           
-                     <ul class="blog-slide">      
-                        <li><img src="img/fotos/fabrica02.jpg" w alt=""/></li>       
-                        <li><img src="img/fotos/fabrica03.jpg" w alt=""/></li>       
-                        <li><img src="img/fotos/fabrica04.jpg" w alt=""/></li>                                                                                                
-                     </ul>
+                  <div class="blog-media">         
+                        <img src="img/slide/granja01.jpg" w alt=""/>                                                                                                 
+                     
                   </div>
                   <div class="post-content">
                      <h1 class="mo-animate" data-animate="fadeInDown">Núcleo de Produção • Granjas</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     A fim de melhorar a qualidade da produção estamos investindo muito no conforto térmico das aves, proporcionando assim um bem estar animal.<br/><br/>                     A capacidade de produção de nossos Núcleos é acima de 600 mil ovos por dia destinados ao consumo.                     
+                    A fim de melhorar a qualidade da produção, a Fazenda São Pedro está investindo muito no conforto térmico das aves, proporcionando assim um bem - estar animal.                    A capacidade de produção dos Núcleos é acima de 600 mil ovos por dia destinados ao consumo.<br/><br/>                    A alimentação influencia diretamente na produção de ovos das galinhas. Portanto o correto manejo da alimentação tem como objetivo suprir os requerimentos nutricionais das aves em todo o seu período de desenvolvimento e de produção, otimizando o crescimento, a eficiência produtiva e a lucratividade.                                         
 
 
 </p>
@@ -146,204 +143,7 @@
          </div>
       </section>
 
-      <section class="mo-content">
-      		         <div class="row">
-      		            <div class="large-6 columns gap" data-top="20">
-      		               <h3 class="mo-animate" data-animate="fadeInLeft" style="font-family:Lobster; color:#ED1C24;">Fotos do Núcleo de Pordução</h3>
-      		
-      		               <ul class="pf-container large-block-grid-4 medium-block-grid-4 no-wrap">
-      		               
-      		               
-      		                
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-      		                    <img src="img/fotos/fabrica02.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/fotos/fabrica02.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-      		                    <div class="text">
-      		                      <h5>Legenda da foto</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="600">
-      		                    <img src="img/fotos/fabrica03.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/fotos/fabrica03.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="700">
-      		                    <div class="text">
-      		                      <h5>Legenda da foto</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/fotos/fabrica04.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/fotos/fabrica04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao01.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao01.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao02.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao02.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao03.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao03.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao04.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao05.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao05.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao06.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao06.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao07.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao07.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                <li class="web print">
-      		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-      		                    <img src="img/produtos/racao/racao08.jpg" alt="" />
-      		                    <div class="mask"></div>
-      		                    <div class="content">
-      		                      <a class="fancybox preview" href="img/produtos/racao/racao08.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-      		                    </div>
-      		                  </div>
-      		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-      		                    <div class="text">
-      		                      <h5>Fabrica</h5>
-      		                    </div>
-      		                  </div>
-      		                </li>
-      		                
-      		                
-      		                
-      		              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->
-      		              </ul> 
-      		            </div>
-      		            
-                  		<div class="large-6 columns gap" data-top="20">
-                     			<h3 class="mo-animate" data-animate="fadeInLeft" style="font-family:Lobster; color:#ED1C24;">Veja em vídeo</h3>
-      
-                     			<ul class="pf-container large-block-grid-6 medium-block-grid-6 no-wrap">
-                     
-                     				<li class="web print">
-                        				<iframe width="500" height="315" src="https://www.youtube.com/embed/yNsMEaFQO0I" frameborder="0" allowfullscreen></iframe>
-                      			</li>
-        
-                    			<!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->
-                    			</ul> 
-                  		</div>  
-      		                        
-      		         </div>
-      		         
-      		      </section>	
+      <!--<section class="mo-content">      	         <div class="row">      	            <div class="large-12 columns gap" data-top="20">      	               <h3 class="mo-animate" data-animate="fadeInLeft" style="font-family:Lobster; color:#ED1C24;">Fotos</h3>      	      	               <ul class="pf-container large-block-grid-4 medium-block-grid-4 no-wrap">      	                     	                      	                      	                  <li class="web print">      	                    <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">      	                      <img src="img/fotos/laboratorio/labo-2.jpg" alt="" />      	                      <div class="mask"></div>      	                      <div class="content">      	                        <a class="fancybox preview" href="img/fotos/laboratorio/labo-2.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>      	                      </div>      	                    </div>      	                    <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">      	                      <div class="text">      	                        <h5>Legenda da foto</h5>      	                      </div>      	                    </div>      	                  </li>      	                        	                    <li class="web print">      	                      <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">      	                        <img src="img/fotos/laboratorio/labo-3.jpg" alt="" />      	                        <div class="mask"></div>      	                        <div class="content">      	                          <a class="fancybox preview" href="img/fotos/laboratorio/labo-3.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>      	                        </div>      	                      </div>      	                      <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">      	                        <div class="text">      	                          <h5>Legenda da foto</h5>      	                        </div>      	                      </div>      	                    </li>      	                     	                      	              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>--*>      	              </ul>       	            </div>      	                          	         </div>      	               	      </section>-->	
 
 
                

@@ -124,14 +124,14 @@
                      		<h1 class="mo-animate" data-animate="fadeInDown">Fábrica de Rações</h1>                        
                     
                      		<p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     A Fazenda São Pedro possui uma Fábrica de Ração que produz ração diariamente para aves e peixes. Preocupados com as necessidades da própria granja a expansão dos negócios aconteceu para atender as aves o que levou a construção da fábrica de ração automatizada, que antes produzia somente ração para as aves, hoje diversifica sua produção com ração para peixes. A fábrica atualmente produz 240 toneladas de ração por dia, sendo que 80 toneladas são destinadas ao atendimento da própria granja e da piscicultura.<br/><br/>                     Os grãos são certificados e registrados pelo Ministério da Agricultura, Pecuária e Abastecimento (MAPA). A comercialização dos produtos da Fazenda São Pedro é realizada por uma equipe que atende grande o Estado do Amazonas e Estados vizinhos.                     </p>
+                     A Fazenda São Pedro possui uma Fábrica de Ração que produz ração diariamente para aves e peixes. Preocupados com as necessidades da própria granja a expansão dos negócios aconteceu para atender as aves o que levou a construção da fábrica de ração automatizada, que antes produzia somente ração para as aves, hoje diversifica sua produção com ração para peixes. A fábrica atualmente produz 240 toneladas de ração por dia, sendo que 80 toneladas são destinadas ao atendimento da própria granja e da piscicultura.<br/><br/>                                          </p>
                   		</div>
                 	</article>
 				</div>				
 			</div>               
 		</section>
 		
-		<section class="mo-content">
+		<!--<section class="mo-content">
 		         <div class="row">
 		            <div class="large-6 columns gap" data-top="20">
 		               <h3 class="mo-animate" data-animate="fadeInLeft" style="font-family:Lobster; color:#ED1C24;">Fotos da fábrica</h3>
@@ -309,7 +309,7 @@
 		                
 		                
 		                
-		              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->
+		              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>--*>
 		              </ul> 
 		            </div>
 		            
@@ -322,13 +322,13 @@
                   				<iframe width="500" height="315" src="https://www.youtube.com/embed/yNsMEaFQO0I" frameborder="0" allowfullscreen></iframe>
                 			</li>
   
-              			<!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->
+              			<!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>--*>
               			</ul> 
             		</div>  
 		                        
 		         </div>
 		         
-		      </section>      		
+		      </section>-->      		
 
                
          <?php include './footer_saopedro.php'; ?>

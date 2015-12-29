@@ -143,11 +143,11 @@
                         <div class="footer-content">
                         </div>
                         <div class="timeline-social">
-                           <a class="button tiny yellow" style=" margin-left:15px; border-radius:5px;" href="noticias001.php">ler matéria</a>
+                           <a class="button tiny yellow" style=" margin-left:15px; border-radius:5px;" href="noticias_ovo_pasteurizado.php">ler matéria</a>
                         </div>
                      </div>
                   </li>
-                  
+                                       <li class="mo-animate" data-animate="fadeInDown">                        <div class="timeline-container">                           <div class="feature-left">                              <h4 class="gap" data-top="20" data-bottom="12" style="font-family:Raleway; font-weight:100;">Mitos e verdades sobre o ovo...</h4>                               <p>Verdade. Eventuais bactérias presentes no alimento, como a salmonella, que podem sobreviver e causar infecções, principalmente em gestantes, idosos, crianças e imunodeficiente...                              </p>                           </div>                        </div>                        <div class="timeline-footer">                           <div class="footer-content">                           </div>                           <div class="timeline-social">                              <a class="button tiny yellow" style=" margin-left:15px; border-radius:5px;" href="noticias_mitos.php">ler matéria</a>                           </div>                        </div>                     </li>                     
                   
                   
                   

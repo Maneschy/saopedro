@@ -114,24 +114,15 @@
                  
                   <div class="post-content">
                   
-                  	 <img class="the-thumb" width="250" src="img/slide/associacao.jpg">
+                  	 <img style="float: left; margin-right: 15px;" class="the-thumb" width="250" src="img/slide/associacao.jpg">                  	 <img class="the-thumb" width="250" src="img/slide/selo-ovos.jpg"> 
                   	 <br/><br/>                   
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+                     Os ovos São Pedro, produzidos no Amazonas possuem o Selo Oficial de Identificação, o qual garante a qualidade do produto.                     Em formato do desenho do mapa do Amazonas, possui as cores verde, branco e amarelo, com dizeres ‘Ovos - AM’. O Selo de identificação passou a ser usado em todo Estado.<br/><br/>                     Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o Estado do Amazonas é o primeiro da Região Norte do Brasil em Avicultura de Postura. Sua produção gera 5 mil empregos diretos e o dobro em indiretos em mais de 80 granjas distribuídas nos municípios de Manaus, Iranduba, Manacapuru, Rio Preto da Eva e Itacoatiara.                     </p>
                   </div>
                   
-                  <hr/>
                   
-                  <div class="post-content">
-                      <img class="the-thumb" width="250" src="img/slide/selo-ovos.jpg">                      
-                    <br/><br/> 
-                     <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.
-
-
-</p>
-                  </div>                  
+                           
                </article>
                
 

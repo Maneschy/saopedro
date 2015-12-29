@@ -115,15 +115,15 @@
 				<div class="large-12 columns">
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
                   
-                  <div class="post-content">
-                     <h1 class="mo-animate" data-animate="fadeInDown">Certificações</h1>                        
+                  <div class="post-content">                                   
+                     <h1 class="mo-animate" data-animate="fadeInDown">Certificação de qualidade</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                     A Fazenda São Pedro está devidamente cadastrada no Ministério da Agricultura, Pecuária e Abastecimento (MAPA) na área de alimentos para animais (ração). O registro com validade para cinco anos a contar de 2014. <br/><br/>                     A fábrica também possui registro na Agência de Defesa Agropecuária do Estado do Amazonas (ADAF) junto ao Serviço de Inspeção Estadual (SIE) – AM da Gerência de Inspeção Animal (GIA) com validade para 12 meses a contar de 2015.                     
 </p>
                   </div>
                   
-                  
+                  <img style="float: left; margin-right: 15px;" class="the-thumb" width="250" src="img/selo-ministerio-agricultura.png">                  	 <img class="the-thumb" width="250" src="img/selo-inspecionado.png">                   
                </article>
 
 			</div>				
@@ -138,80 +138,7 @@
          </div>
       </section>
 
-      <section class="mo-content">
-         <div class="row">
-            <div class="large-12 columns gap" data-top="20">
-               <h2 class="mo-animate" data-animate="fadeInLeft" style="font-family:Lobster; color:#ED1C24;">Nossas Certificações</h2>
-
-               <ul class="pf-container large-block-grid-4 medium-block-grid-4 no-wrap">
-               
-               
-                
-                <li class="web print">
-                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="200">
-                    <img src="img/fotos/img_mag1.jpg" alt="" />
-                    <div class="mask"></div>
-                    <div class="content">
-                      <a class="fancybox preview" href="img/fotos/img_mag1.jpg" data-fancybox-group="gallery" title=""><i class="icon-search"></i></a>
-                    </div>
-                  </div>
-                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="300">
-                    <div class="text">
-                    </div>
-                  </div>
-                </li>
-                
-                
-                <li class="web print">
-                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-                    <img src="img/fotos/img_mag1.jpg" alt="" />
-                    <div class="mask"></div>
-                    <div class="content">
-                      <a class="fancybox preview" href="img/fotos/img_mag1.jpg" data-fancybox-group="gallery1" title=""><i class="icon-search"></i></a>
-                    </div>
-                  </div>
-                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-                    <div class="text">
-                    </div>
-                  </div>
-                </li>
-                
-                <li class="web print">
-                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="600">
-                    <img src="img/fotos/img_mag1.jpg" alt="" />
-                    <div class="mask"></div>
-                    <div class="content">
-                      <a class="fancybox preview" href="img/fotos/img_mag1.jpg" data-fancybox-group="gallery" title=""><i class="icon-search"></i></a>
-                    </div>
-                  </div>
-                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="700">
-                    <div class="text">
-                    </div>
-                  </div>
-                </li>
-                
-                
-                <li class="web print">
-                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="1600">
-                    <img src="img/fotos/img_mag1.jpg" alt="" />
-                    <div class="mask"></div>
-                    <div class="content">
-                      <a class="fancybox preview" href="img/fotos/img_mag1.jpg" data-fancybox-group="gallery" title=""><i class="icon-search"></i></a>
-                    </div>
-                  </div>
-                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="1700">
-                    <div class="text">
-                    </div>
-                  </div>
-                </li>
-                
-                
-              </ul> 
-            </div>            
-         </div>
-         
-         
-      </section>	
+      	
 
 
                

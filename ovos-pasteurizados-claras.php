@@ -109,15 +109,15 @@
            		</div> 
                 
                 <div style="text-align:left;"> <img style="float:left; margin-right:20px; margin-top:-15px;" src="img/produtos/logo-ovos-produtos.png">
-                 	<a class="button small radius red" href="ovos-pasteurizados-gemas.html"> GEMAS PASTEURIZADAS </a> 
+                 	<a class="button small radius red" href="ovos-pasteurizados-gemas.php"> GEMAS PASTEURIZADAS </a> 
                  	<a class="button small radius yellow" href="#"> CLARAS PASTEURIZADAS </a>
-                 	<a class="button small radius red" href="ovos-pasteurizados-integral.html"> INTEGRAL PASTEURIZADO (gema+clara) </a>
+                 	<a class="button small radius red" href="ovos-pasteurizados-integral.php"> INTEGRAL PASTEURIZADO (gema+clara) </a>
                  <br/>
                 
-                	<a class="button tiny radius gray">Embalagens com: </a> 
-                    <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="clara" title="Embalagem com 350 gramas de clara pasteurizada">350 gramas </a>  
+                	<a class="button tiny radius gray">Embalagens com: </a> <!--
+                    <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="clara" title="Embalagem com 350 gramas de clara pasteurizada">350 gramas </a>  -->
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-1kilo.jpg" data-fancybox-group="clara" title="Embalagem com 01 kilo de clara pasteurizada">01 kilo </a>  
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-5kilos.jpg" data-fancybox-group="clara" title="Embalagem com 05 kilos de clara pasteurizada">05 kilos </a>  
+                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/clara-5k.jpg" data-fancybox-group="clara" title="Embalagem com 05 kilos de clara pasteurizada">05 kilos </a>  
                 
               </div>
                 
@@ -131,7 +131,7 @@
                  		<div class="blog-media">           
                     		<ul class="blog-slide">
                             	<li><img src="img/slide/clara-neve.jpg" alt=""/></li>                                                    
-                        		<li><img src="img/slide/embalagem-pasteurizadas-5k.jpg" alt=""/></li>
+                        		<li><img src="img/slide/clara-liquido-5kilos.jpg" alt=""/></li>
                         		<li><img src="img/slide/cozinheira-doces.jpg" w alt=""/></li>
                         		
                      		</ul>
