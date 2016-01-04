@@ -126,7 +126,7 @@
                     <h3>Pintainha tipo 01</h3>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
-                        		<li><img src="img/slide/pintos-slide01.jpg" w alt=""/></li>
+                        		<li><img src="img/slide/pintos-slide01.jpg" w alt=""/></li>                        		<li><img src="img/slide/pintos-slide03.jpg" w alt=""/></li>
                      		</ul>
                   		</div>
            		  <div class="large-12 columns" id="embalagens">

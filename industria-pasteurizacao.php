@@ -117,15 +117,14 @@
                   <div class="blog-media">           
                      <ul class="blog-slide">      
                         <li><img src="img/slide/pasteurizacao-slide+.jpg" w alt=""/></li>       
-                        <li><img src="img/slide/pasteurizacao02-slide+.jpg" w alt=""/></li>                                                                                               
+                        <li><img src="img/slide/pasteurizacao2-slide+.jpg" w alt=""/></li>                                                                                               
                      </ul>
                   </div>
                   <div class="post-content">
                      <h1 class="mo-animate" data-animate="fadeInDown">Indústria de Pasteurização de Ovos</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                   A Fazenda São Pedro é a primeira e única indústria de fabricação de ovo líquido pasteurizado da Região Norte.<br/>
-O processo de fabricação dos produtos é assegurado pela pasteurização e controle de qualidade em tempo integral, garantindo integridade do produto sem descaracterizar as particularidades nutricionais do ovo.
+                   O processo consiste no emprego conveniente do calor com a finalidade de destruir microrganismos patogênicos sem alteração sensível da constituição física do ovo ou partes dele.
 
 
 </p>
@@ -150,12 +149,12 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                    <img src="img/fotos/pasteurizacao/pasteurizacao08.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao08.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao08.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>
@@ -165,42 +164,42 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                    <img src="img/fotos/pasteurizacao/pasteurizacao03.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao03.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao03.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>
 		                
 		                <li class="web print">
 		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-		                    <img src="img/sem-foto.jpg" alt="" />
+		                    <img src="img/fotos/pasteurizacao/pasteurizacao04.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao04.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>
 		                
 		                <li class="web print">
 		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-		                    <img src="img/sem-foto.jpg" alt="" />
+		                    <img src="img/fotos/pasteurizacao/pasteurizacao02.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao021.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>

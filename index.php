@@ -122,10 +122,9 @@
                   </li>
 
                   <li class="block-size var5 mo-animate" data-animate="bounceIn" data-delay="400">
-                     <div id="img-slide" class="owl-carousel">
+                     <div id="img-slide" class="owl-carousel">                     <a href="ovos-premium.php"><img class="the-thumb" src="img/slide/banner-ovo-premium-2.jpg" alt="" /></a>
                         <img class="the-thumb" src="img/slide/banner-ovo-inatura.jpg" alt="" />
-                        <img class="the-thumb" src="img/slide/banner-ovo-liquido.jpg" alt="" />
-                        <img class="the-thumb" src="img/slide/banner-ovo-inatura2.jpg" alt="" />
+                        <a href="ovos-pasteurizados-gemas.php"><img class="the-thumb" src="img/slide/banner-ovo-liquido.jpg" alt="" /></a>
                         <!--<img class="the-thumb" src="img/slide/banner-ambiental.jpg" alt="" />-->
                      </div>
                   </li>

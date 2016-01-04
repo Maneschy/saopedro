@@ -159,8 +159,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Ovo líquido pasteurizado é produzido a partir de ovos selecionados, sem utilização de conservantes ou qualquer outro ingrediente. Pela sua praticidade é ideal para ser usado em panificadoras, restaurantes, cozinhas industriais, supermercados etc. <br/><br/>
-                            Com ele, é possível desenvolver vários pratos, como massas e suplementos, maioneses e molhos, além de sobremesas como suspiros, quindins, merengues e pudins. Pode ser utilizado em todos os processos que utilizam ovos in natura (ovos comuns).
+                            Quem é fã de academia não perde tempo em procurar um suplemento que ajude a fazer os músculos aparecerem e que seja bom e barato. A clara do ovo é uma das boas alternativas. Mas, além de ajudar a definir os músculos a clara do ovo ajuda a deixar a pele do rosto mais firme e jovem devido sua grande quantidade de colágeno.<br/><br/>                            A proteína chamada albumina é encontrada em cerca de 80% da clara de ovo. Essa proteína é livre de colesterol e lactose e ainda é fonte de BCAA. Para chegar até a proteína é necessário passar por algumas etapas como a desidratação e a pasteurização que tornam o seu uso mais seguro.<br/><br/>                            O mais interessante é que esses benefícios não estão ligados somente à ingestão da clara, mas também ao seu uso sobre a pele como a matéria-prima de alguns tratamentos caseiros.<br/><br/>                            
                             
                            <h3>+ vantagem para o comerciante </h3> 
                            
@@ -168,7 +167,7 @@
                            Com o ovo líquido pasteurizado não há perdas, porque ele é 100% aproveitado no momento da manipulação direta.<br/><br/>
                            
                            <strong>SEGURANÇA ALIMENTAR</strong><br/>
-                           Além de garantir mais organização e limpeza ao ambiente de preparo, a utilização de ovos líquidos pasteurizados elimina o risco de contaminação por microorganismos vivos e a bactéria Salmonella.<br/><br/>
+                           Além de garantir mais organização e limpeza ao ambiente de preparo, a utilização de ovos líquidos pasteurizados elimina o risco de contaminação por microorganismos vivos e a bactéria Salmonella.<br/><br/>                           
                            <strong>MELHOR ARMAZENAMENTO</strong><br/>
                            Otimização de espaço, devido as características do produto.<b style="color:#F00;"> (conservar o produto refrigerado entre 0 e 5º C)</b><br/><br/>
                             

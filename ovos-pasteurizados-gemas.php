@@ -117,7 +117,7 @@
                 	<a class="button tiny radius gray">Embalagens com: </a> <!--
                     <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="gema" title="Embalagem com 350 grams de gema pasteurizada">350 gramas </a> --> 
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-1kilo.jpg" data-fancybox-group="gemas" title="Embalagem com 01 kilo de gema pasteurizada">01 kilo </a>  
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/gema-5k.jpg" data-fancybox-group="gemas" title="Embalagem com 05 kilos de gema pasteurizada">05 kilos </a>  
+                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/gema-5k-g.JPG" data-fancybox-group="gemas" title="Embalagem com 05 kilos de gema pasteurizada">05 kilos </a>  
                 
               </div>
                 
@@ -158,8 +158,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Ovo líquido pasteurizado é produzido a partir de ovos selecionados, sem utilização de conservantes ou qualquer outro ingrediente. Pela sua praticidade é ideal para ser usado em panificadoras, restaurantes, cozinhas industriais, supermercados etc. <br/><br/>
-                            Com ele, é possível desenvolver vários pratos, como massas e suplementos, maioneses e molhos, além de sobremesas como suspiros, quindins, merengues e pudins. Pode ser utilizado em todos os processos que utilizam ovos in natura (ovos comuns).
+                            Quem já recebeu um conselho de alguém dizendo que a gema do ovo faz mal a saúde?<br/><br/>                            Se você passou por isso, fique tranquilo, pois não foi o único, a gema do ovo contém Omega-3 na forma de DHA, que é a mesma gordura saudável encontrada nos peixes como o salmão.<br/><br/>                             O DHA é essencial para melhorar o relacionamento orgânico entre as células e o sistema nervoso, é bom para o cérebro, para o funcionamento dos olhos e para o controle de gorduras no sangue.<br/><br/>                            
                             
                            <h3>+ vantagem para o comerciante </h3> 
                            
@@ -167,7 +166,7 @@
                            Com o ovo líquido pasteurizado não há perdas, porque ele é 100% aproveitado no momento da manipulação direta.<br/><br/>
                            
                            <strong>SEGURANÇA ALIMENTAR</strong><br/>
-                           Além de garantir mais organização e limpeza ao ambiente de preparo, a utilização de ovos líquidos pasteurizados elimina o risco de contaminação por microorganismos vivos e a bactéria Salmonella.<br/><br/>
+                           Além de garantir mais organização e limpeza ao ambiente de preparo, a utilização de ovos líquidos pasteurizados elimina o risco de contaminação por microorganismos vivos e a bactéria Salmonella.<br/><br/>                           
                            <strong>MELHOR ARMAZENAMENTO</strong><br/>
                            Otimização de espaço, devido as características do produto.<b style="color:#F00;"> (conservar o produto refrigerado entre 0 e 5º C)</b><br/><br/>
                             
