@@ -116,8 +116,13 @@
                 
                 	<a class="button tiny radius gray">Embalagens com: </a> <!--
                     <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="gema" title="Embalagem com 350 grams de gema pasteurizada">350 gramas </a> --> 
+<<<<<<< HEAD
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-gema-1k.jpg" data-fancybox-group="gemas" title="Embalagem com 01 kilo de gema pasteurizada">01 kilo </a>  
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-gema-5k.jpg" data-fancybox-group="gemas" title="Embalagem com 05 kilos de gema pasteurizada">05 kilos </a>  
+=======
+                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-1kilo.jpg" data-fancybox-group="gemas" title="Embalagem com 01 kilo de gema pasteurizada">01 kilo </a>  
+                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/gema-5k-g.JPG" data-fancybox-group="gemas" title="Embalagem com 05 kilos de gema pasteurizada">05 kilos </a>  
+>>>>>>> origin/master
                 
               </div>
                 
@@ -158,7 +163,11 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
+<<<<<<< HEAD
                             Quem já recebeu um conselho de alguém dizendo que a gema do ovo faz mal a saúde?<br/><br/>                                                                                    Ovos pasteurizados consiste no processo  térmico que consiste no emprego do ovo a temperatura de 65 grau por 3 minutos, com a finalidade de destruir microorganismos patogênicos, como a Salmonella, sem alteração sensível na constituição física do ovo ou parte dele.                                                        A Fazenda São Pedro disponibiliza o ovo líquido em garrafas de 1kg e                            de 5kg, em três versões:<br/>                                                        <strong>Claras pasteurizadas:</strong> Ideal para massas, suplementos, suspiros e merengues<br/>                            <strong>Gemas pasteurizadas:</strong> Ideal para confeitaria, panificação, maionese e molho<br/>                            <strong>Ovos pasteurizados:</strong> Ideal para massas, doces e confeitaria<br/><br/>                            
+=======
+                            Quem já recebeu um conselho de alguém dizendo que a gema do ovo faz mal a saúde?<br/><br/>                            Se você passou por isso, fique tranquilo, pois não foi o único, a gema do ovo contém Omega-3 na forma de DHA, que é a mesma gordura saudável encontrada nos peixes como o salmão.<br/><br/>                             O DHA é essencial para melhorar o relacionamento orgânico entre as células e o sistema nervoso, é bom para o cérebro, para o funcionamento dos olhos e para o controle de gorduras no sangue.<br/><br/>                            
+>>>>>>> origin/master
                             
                            <h3>+ vantagem para o comerciante </h3> 
                            
@@ -319,10 +328,19 @@
                   </td>
                 </tr>
               </table>
+<<<<<<< HEAD
                 <p><b><strong style="color:#D3252F">VALORES APROXIMADOS • 01 GEMA</strong> = 17 g</b></p><br/>                <img class="the-thumb" src="img/composicao-gema.png"> 
 
             </div>            
 <div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">    <h4 style="font-weight:900;">Veja o vídeo </h4>   		         		         		      <iframe width="560" height="315" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>   		         		         		               	</div>
+=======
+                <p><b><strong style="color:#D3252F">01 GEMA</strong> = 17 g</b></p> 
+
+            </div>            
+<div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">    <h4 style="font-weight:900;">Veja o vídeo </h4>   		         		         		      <iframe width="560" height="315" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>   		         		         		               	</div>
+
+            </div>
+>>>>>>> origin/master
 
 
 			</div><!--// "large-12 columns mo-animate" -->

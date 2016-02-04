@@ -123,7 +123,11 @@
 </p>
                   </div>
                   
+<<<<<<< HEAD
                   <img style="float: left; margin-right: 15px;" class="the-thumb" width="250" src="img/selo-agricultura.png">                  	 <img class="the-thumb" width="250" src="img/selo-inspecionado.png">                   
+=======
+                  <img style="float: left; margin-right: 15px;" class="the-thumb" width="250" src="img/selo-ministerio-agricultura.png">                  	 <img class="the-thumb" width="250" src="img/selo-inspecionado.png">                   
+>>>>>>> origin/master
                </article>
 
 			</div>				

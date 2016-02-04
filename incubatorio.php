@@ -66,7 +66,11 @@
                      <h1 class="mo-animate" data-animate="fadeInDown">Incubatório</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
+<<<<<<< HEAD
                     Os ovos São Pedro são classificados, selecionados e transportados ao incubatório, por meio de transporte climatizado.                    Fatores como manejo e estocagem dos ovos, manejo de incubadora, nascedouros e condições de manejo do nascimento até a entrega das pintainhas na granja, exercem influência direta sobre a taxa de eclosão dos ovos, bem como sobre a qualidade da pintainha de um dia. O sucesso da incubação é obtido quando todos esses fatores são criteriosamente acompanhados e controlados.<br/><br/>                    A Fazenda São Pedro possui um sistema de climatização e automação total no seu incubatório, para proporcionar, sempre, o melhor em termos de qualidade e genética do produto final.                    
+=======
+                    Os ovos São Pedro são classificados, selecionados e transportados diariamente ao incubatório, por meio de transporte climatizado.                    Fatores como manejo e estocagem dos ovos, manejo de incubadora, nascedouros e condições de manejo do nascimento até a entrega das pintainhas na granja, exercem influência direta sobre a taxa de eclosão dos ovos, bem como sobre a qualidade da pintainha de um dia. O sucesso da incubação é obtido quando todos esses fatores são criteriosamente acompanhados e controlados.<br/><br/>                    A Fazenda São Pedro possui um sistema de climatização e automação total no seu incubatório, para proporcionar, sempre, o melhor em termos de qualidade e genética do produto final.                    
+>>>>>>> origin/master
 </p>
                   </div>
                   

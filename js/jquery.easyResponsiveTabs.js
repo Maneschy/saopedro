@@ -8,7 +8,7 @@
                 type: 'default', //default, vertical, accordion;
                 width: 'auto',
                 fit: true,
-                closed: true,
+                closed: false,
                 activate: function(){}
             }
 

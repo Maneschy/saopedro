@@ -118,7 +118,11 @@
                <div class="feature">
                   <a href="racoes-peixes.php"><div class="ico-pinto"><img src="img/ico-peixe.png"> </div>   </a>
                   <h4>Piscicultura</h4> 
+<<<<<<< HEAD
                   <p>A Fazenda São Pedro possui uma estrutura de produção de peixes com controle de qualidade rigoroso, com um sistema de monitoramento do oxigênio e controle de temperatura da água, que tem como objetivo minimizar ao máximo o stress dos peixes.</p>
+=======
+                  <p>A Fazenda São Pedro possui uma das maiores e melhores estruturas de produção de peixes da Região Norte. O Controle de qualidade é rigoroso, com um sistema de monitoramento do oxigênio e controle de temperatura da água, que tem como objetivo minimizar ao máximo o stress dos peixes.</p>
+>>>>>>> origin/master
                </div>
             </div>
 
@@ -127,7 +131,11 @@
                  <a href="racoes-aves.php"> <div class="ico-racao"><img src="img/ico-racao.png"> </div></a>
                       
                   <h4>Rações Eficientes</h4> 
+<<<<<<< HEAD
                   <p>A Fazenda São Pedro comercializa rações de qualidade para peixes e aves. Atende tanto produções de grande escala como pequenas propriedades.                  </p>
+=======
+                  <p>A Fazenda São Pedro comercializa rações de qualidade para peixes e aves. Atendemos tanto produções de grande escala como pequenas propriedades.                  </p>
+>>>>>>> origin/master
                </div>
             </div>
         </div>               
