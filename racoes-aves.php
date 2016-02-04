@@ -45,64 +45,7 @@
 
 <body>
    <div id="mo-wrapper">
-     <!-- <section id="panel">
-         <div class="row">
-            <div class="large-4 medium-4 columns">
-               <h4>About Us</h4>
-               <p>Sed ut perspiciatis unde omnisite natus error sittery voluptatem accusantium doloremque quae ab illo inventore veritatis etquasi.</p>
-               <a href="#" class="button small yellow">More about us <i class="icon-circleright"></i></a>
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Keep Connect with Us</h4>
-               <ul class="mo-social square">
-                  <li><a class="social-twitter" href="#"></a></li>
-                  <li><a class="social-facebook" href="#"></a></li>
-                  <li><a class="social-google" href="#"></a></li>
-                  <li><a class="social-dribbble" href="#"></a></li>
-                  <li><a class="social-linkedin" href="#"></a></li>
-                  <li><a class="social-wordpress" href="#"></a></li>
-                  <li><a class="social-youtube" href="#"></a></li>
-                  <li><a class="social-instagram" href="#"></a></li>
-                  <li><a class="social-vimeo" href="#"></a></li>
-                  <li><a class="social-spotify" href="#"></a></li>
-                  <li><a class="social-yahoo" href="#"></a></li>
-                  <li><a class="social-skype" href="#"></a></li>
-                  <li><a class="social-feedburner" href="#"></a></li>
-                  <li><a class="social-tumblr" href="#"></a></li>
-                  <li><a class="social-blogger" href="#"></a></li>
-                  <li><a class="social-pinterest" href="#"></a></li>
-                  <li><a class="social-email1" href="#"></a></li>
-                  <li><a class="social-rss" href="#"></a></li>
-               </ul>  
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Login to Your Account</h4>
-               <form>
-                  <div class="row">
-                     <div class="form-group large-12 columns">
-                        <input type="text" class="form-control input-lg" id="name" placeholder="Enter name">
-                     </div>
-
-                     <div class="form-group large-12 columns">
-                        <input type="email" class="form-control" id="email" placeholder="Enter email">
-                     </div>
-
-                     <div class="form-group large-6 columns">
-                        <div class="checkbox">
-                           <label>
-                              <input type="checkbox" id="checkbox" value="option1"> Remember me
-                           </label>
-                        </div>
-                     </div>
-
-                     <div class="form-inline large-6 columns remember">
-                        <button type="submit" class="button small yellow">Login <i class="icon-circleright"></i></button>
-                     </div>
-                  </div>                  
-               </form> 
-            </div>
-         </div>
-      </section>      -->
+    
 
             <?php include './menu_saopedro.php'; ?>
       
@@ -112,7 +55,7 @@
             		<hr>
            		</div> 
                 
-                <div style="text-align:left;"> <img style="float:left; margin-right:20px; margin-top:-15px;" src="img/produtos/logo-racoes.png">                   <a class="button small radius yellow" href="#">AVES </a>                    <a class="button small radius red" href="racoes-caipira.php"> CAIPIRA • PELETIZADA </a>                    <a class="button small radius red" href="racoes-peixes.php">PEIXE</a><br/>                                    									<a class="button tiny radius gray">embalagem: </a>                                                       <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovos-vermelhos" title="Ração 50kg">50 kilos </a>                                                                                                              <a class="button tiny radius yellow fancybox preview" href="img/produtos/racao/racao-peixe.jpg" data-fancybox-group="25k" title="Ração 25kg">25 kilos </a>                                                                                                                                                                     <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovo" title="Ração 5k">05 kilos </a>                                    </div>
+                <div style="text-align:left;"> <img style="float:left; margin-right:20px; margin-top:-15px;" src="img/produtos/logo-racoes.png">                   <a class="button small radius yellow" href="#">AVES </a>                    <a class="button small radius red" href="racoes-caipira.php"> CAIPIRA • PELETIZADA </a>                    <a class="button small radius red" href="racoes-peixes.php">PEIXE</a><br/>                                    									<a class="button tiny radius gray">embalagem: </a>                                                       <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves50kg.jpg" data-fancybox-group="aves" title="Ração 50kg">50 kilos </a>                                                                                                              <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves25kg.jpg" data-fancybox-group="aves" title="Ração 25kg">25 kilos </a>                                                                                                                                                                     <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves5kg.jpg" data-fancybox-group="aves" title="Ração 5k">05 kilos </a>                                    </div>
                 
           <div class="large-12 columns" style="margin-top:-10px;">
             		<hr>
@@ -123,8 +66,8 @@
                     <h3>Rações para aves</h3>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
-                    		<li><img src="img/slide/fabrica-racoes3.jpg" alt=""/></li>
-                        		<li><img src="img/slide/fabrica-racoes2.jpg" w alt=""/></li>
+                    		<li><img src="img/slide/racao-aves01.jpg" alt=""/></li>
+                        		<li><img src="img/slide/racao-aves02.jpg" w alt=""/></li>                        			<li><img src="img/slide/racao-aves03.jpg" w alt=""/></li>
                      		</ul>
                   		</div>
            		  <div class="large-12 columns" id="embalagens">
@@ -150,7 +93,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            A Fazenda São Pedro possui uma Fábrica de Ração que produz ração diariamente para aves e peixes.<br/>                            Os grãos são certificados e registrados pelo Ministério da Agricultura, Pecuária e Abastecimento (MAPA). A comercialização dos produtos da Fazenda São Pedro é realizada por uma equipe que atende grande o Estado do Amazonas e Estados vizinhos.                            
+                                                     Fornecer uma boa alimentação para as aves é fundamental para um bom desenvolvimento. Sendo necessária uma ração balanceada com níveis de proteína, energia, vitaminas, aminoácidos e minerais em quantidades adequadas de forma que atenda às exigências nutricionais das aves.                                                      <h3>Tipos de Ração</h3>                                                      <strong style="font-weight: 900;">RAÇÃO PARA AVES DE CORTE</strong><br/>                                                      <b style="font-weight: 600;">• Ração para Aves de Corte Inicial: </b> indicada para frangos de corte do 1º ao 23º dia de idade.<br/>                                                      <b style="font-weight: 600;">• Ração para Ave de Corte Final: </b> Indicada para aves d 24º dia de idade até o 5º dia antes do abate.<br/>                                                      <b style="font-weight: 600;">• Ração para Frangos Caipira em Crescimento: </b> Indicada para alimentação de frango de corte em fase de crescimento, dos 21 dias de idade até 42 dias de idade.<br/>                                                      <b style="font-weight: 600;">• Ração para Aves de Postura: </b> Indicada para aves poedeiras na fase                           inicial de produção de ovos.<br/>                                                      <b style="font-weight: 600;">• Ração para Galinha Caipira em Postura: </b> Indicada para aves poedeiras na fase de produção.  A partir do início da produção de ovos.<br/>                                                      <b style="font-weight: 600;">• Codorna em Produção: </b> Indicada para codornas na fase de produção de ovos.<br/>                                                       
 						</p>
                      </div><!-- FIM sobre o ovo -->
 
@@ -174,161 +117,22 @@
             		
             		               <ul class="pf-container large-block-grid-4 medium-block-grid-4 no-wrap">
             		               
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-            		                    <img src="img/fotos/fabrica02.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/fotos/fabrica02.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-            		                    <div class="text">
-            		                      <h5>Legenda da foto</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="600">
-            		                    <img src="img/fotos/fabrica03.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/fotos/fabrica03.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="700">
-            		                    <div class="text">
-            		                      <h5>Legenda da foto</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                
             		                <li class="web print">
             		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/fotos/fabrica04.jpg" alt="" />
+            		                    <img src="img/fotos/embalagens/racao-aves/racao-aves5kg.jpg" alt="" />
             		                    <div class="mask"></div>
             		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/fotos/fabrica04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
+            		                      <a class="fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves5kg.jpg" data-fancybox-group="home" title="Ração Aves"><i class="icon-search"></i></a>
             		                    </div>
             		                  </div>
             		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
             		                    <div class="text">
-            		                      <h5>Fabrica</h5>
+            		                      <h5>Ração</h5>
             		                    </div>
             		                  </div>
             		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao01.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao01.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao03.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao03.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao04.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao05.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao05.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao06.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao06.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao07.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao07.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao08.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao08.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                
+            		                            		                 <li class="web print">            		                   <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">            		                     <img src="img/fotos/embalagens/racao-aves/racao-aves01.jpg" alt="" />            		                     <div class="mask"></div>            		                     <div class="content">            		                       <a class="fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves01.jpg" data-fancybox-group="home" title="Ração Aves"><i class="icon-search"></i></a>            		                     </div>            		                   </div>            		                   <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">            		                     <div class="text">            		                       <h5>Ração</h5>            		                     </div>            		                   </div>            		                 </li>            		                             		                  <li class="web print">            		                    <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">            		                      <img src="img/fotos/embalagens/racao-aves/racao-aves02.jpg" alt="" />            		                      <div class="mask"></div>            		                      <div class="content">            		                        <a class="fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves021.jpg" data-fancybox-group="home" title="Ração Aves"><i class="icon-search"></i></a>            		                      </div>            		                    </div>            		                    <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">            		                      <div class="text">            		                        <h5>Ração</h5>            		                      </div>            		                    </div>            		                  </li>            		                              		                   <li class="web print">            		                     <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">            		                       <img src="img/fotos/embalagens/racao-aves/racao-aves03.jpg" alt="" />            		                       <div class="mask"></div>            		                       <div class="content">            		                         <a class="fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves031.jpg" data-fancybox-group="home" title="Ração Aves"><i class="icon-search"></i></a>            		                       </div>            		                     </div>            		                     <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">            		                       <div class="text">            		                         <h5>Ração</h5>            		                       </div>            		                     </div>            		                   </li>            		                               		                      <li class="web print">            		                        <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">            		                          <img src="img/fotos/embalagens/racao-aves/racao-aves25kg.jpg" alt="" />            		                          <div class="mask"></div>            		                          <div class="content">            		                            <a class="fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves25kg.jpg" data-fancybox-group="home" title="Ração Aves"><i class="icon-search"></i></a>            		                          </div>            		                        </div>            		                        <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">            		                          <div class="text">            		                            <h5>Ração</h5>            		                          </div>            		                        </div>            		                      </li>            		                                  		                       <li class="web print">            		                         <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">            		                           <img src="img/fotos/embalagens/racao-aves/racao-aves50kg.jpg" alt="" />            		                           <div class="mask"></div>            		                           <div class="content">            		                             <a class="fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves50kg.jpg" data-fancybox-group="home" title="Ração Aves"><i class="icon-search"></i></a>            		                           </div>            		                         </div>            		                         <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">            		                           <div class="text">            		                             <h5>Ração</h5>            		                           </div>            		                         </div>            		                       </li>            		                       
+            		                           		                
             		                
             		              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->
             		              </ul> 

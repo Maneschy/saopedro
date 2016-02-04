@@ -117,15 +117,14 @@
                   <div class="blog-media">           
                      <ul class="blog-slide">      
                         <li><img src="img/slide/pasteurizacao-slide+.jpg" w alt=""/></li>       
-                        <li><img src="img/slide/pasteurizacao02-slide+.jpg" w alt=""/></li>                                                                                               
+                        <li><img src="img/slide/pasteurizacao2-slide+.jpg" w alt=""/></li>                                                                                               
                      </ul>
                   </div>
                   <div class="post-content">
                      <h1 class="mo-animate" data-animate="fadeInDown">Indústria de Pasteurização de Ovos</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                   A Fazenda São Pedro é a primeira e única indústria de fabricação de ovo líquido pasteurizado da Região Norte.<br/>
-O processo de fabricação dos produtos é assegurado pela pasteurização e controle de qualidade em tempo integral, garantindo integridade do produto sem descaracterizar as particularidades nutricionais do ovo.
+                   O processo consiste no emprego conveniente do calor com a finalidade de destruir microrganismos patogênicos sem alteração sensível da constituição física do ovo ou partes dele.
 
 
 </p>
@@ -150,12 +149,12 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                    <img src="img/fotos/pasteurizacao/pasteurizacao08.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao08.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao08.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>
@@ -165,12 +164,12 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                    <img src="img/fotos/pasteurizacao/pasteurizacao03.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao03.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao03.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>
@@ -180,27 +179,27 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                    <img src="img/fotos/pasteurizacao/pasteurizacao04.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao04.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao04.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>
 		                
 		                <li class="web print">
 		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-		                    <img src="img/fotos/pasteurizacao/pasteurizacao06.jpg" alt="" />
+		                    <img src="img/fotos/pasteurizacao/pasteurizacao02.jpg" alt="" />
 		                    <div class="mask"></div>
 		                    <div class="content">
-		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao06.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+		                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao021.jpg" data-fancybox-group="home" title="Pasteurização"><i class="icon-search"></i></a>
 		                    </div>
 		                  </div>
 		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
 		                    <div class="text">
-		                      <h5>Legenda da foto</h5>
+		                      <h5>Pasteurização</h5>
 		                    </div>
 		                  </div>
 		                </li>
@@ -227,8 +226,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                           <h1 class="mo-animate" data-animate="fadeInDown">Laboratório de análise</h1>                        
 		                          
 		                           <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-		                         A Fazenda São Pedro é a primeira e única indústria de fabricação de ovo líquido pasteurizado da Região Norte.<br/>
-		      O processo de fabricação dos produtos é assegurado pela pasteurização e controle de qualidade em tempo integral, garantindo integridade do produto sem descaracterizar as particularidades nutricionais do ovo.
+		                        A Fazenda São Pedro atendendo normas do Ministério de Agricultura e Pecuária (MAPA), possui o laboratório de análise em sua fábrica, seguindo as Boas Práticas de Fabricação (BPF) e Análise de Perigos e Pontos Críticos de Controle (APPCC).<br/><br/>		                        No laboratório são realizadas duas análises de monitoramento do processo: A Análise Físico – químico Teor de PH (Acidez de produto, teste de aeração (Whipping) da clara de ovo) e Análise Microbiológica: Contagem total de microorganismos e coliformes		                        
 		      
 		      
 		      </p>
@@ -330,8 +328,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                     <h1 class="mo-animate" data-animate="fadeInDown">Envase e armazenamento</h1>                        
 		                    
 		                     <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-		                   A Fazenda São Pedro é a primeira e única indústria de fabricação de ovo líquido pasteurizado da Região Norte.<br/>
-		O processo de fabricação dos produtos é assegurado pela pasteurização e controle de qualidade em tempo integral, garantindo integridade do produto sem descaracterizar as particularidades nutricionais do ovo.
+		                  Os ovos líquidos pasteurizados são comercializados em garrafas de 1kg e de 5kg, em três versões: claras líquidas pasteurizadas (ideal para massas, suplementos, suspiros e merengues); gemas líquidas pasteurizadas (para confeitaria, panificação, maionese e molhos); e ovos integrais pasteurizados (utilizado em massas, doces e confeitaria).
 		
 		
 		</p>
@@ -384,10 +381,10 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 				                
 				                <li class="web print">
 				                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-				                    <img src="img/sem-foto.jpg" alt="" />
+				                    <img src="img/fotos/pasteurizacao/pasteurizacao03.jpg" alt="" />
 				                    <div class="mask"></div>
 				                    <div class="content">
-				                      <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+				                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao03.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
 				                    </div>
 				                  </div>
 				                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
@@ -399,10 +396,10 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 				                
 				                <li class="web print">
 				                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-				                    <img src="img/sem-foto.jpg" alt="" />
+				                    <img src="img/fotos/pasteurizacao/pasteurizacao08.jpg" alt="" />
 				                    <div class="mask"></div>
 				                    <div class="content">
-				                      <a class="fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
+				                      <a class="fancybox preview" href="img/fotos/pasteurizacao/pasteurizacao08.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
 				                    </div>
 				                  </div>
 				                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
@@ -439,7 +436,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="40" width="85"> 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 g</b></div>
 		                  </td>
 		                  <td height="40" width="98"> 
 		                    <div align="center">03 claras </div>
@@ -447,7 +444,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">06 claras</div>
@@ -455,7 +452,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">09 claras</div>
@@ -463,7 +460,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">12 claras</div>
@@ -471,7 +468,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">15 claras</div>
@@ -479,14 +476,14 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">22 claras</div>
 		                  </td>
 		                </tr>
 		              </table>
-		                <p><b><strong style="color:#D3252F">01 CLARA</strong> = 33 gr</b></p> 
+		                <p><b><strong style="color:#D3252F">01 CLARA</strong> = 33 g</b></p> 
 		            </div>
 		            
 		            
@@ -503,7 +500,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="40" width="85"> 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 g</b></div>
 		                  </td>
 		                  <td height="40" width="98"> 
 		                    <div align="center">06 gemas </div>
@@ -511,7 +508,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">12 gemas</div>
@@ -519,7 +516,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">18 gemas</div>
@@ -527,7 +524,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">24 gemas</div>
@@ -535,7 +532,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">29 gemas</div>
@@ -543,14 +540,14 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">44 gemas</div>
 		                  </td>
 		                </tr>
 		              </table>
-		                <p><b><strong style="color:#D3252F">01 GEMA</strong> = 17 gr</b></p> 
+		                <p><b><strong style="color:#D3252F">01 GEMA</strong> = 17 g</b></p> 
 		            </div>
 		            
 		            <section class="mo-content">
@@ -574,7 +571,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="40" width="85"> 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>100 g</b></div>
 		                  </td>
 		                  <td height="40" width="98"> 
 		                    <div align="center">02 ovos </div>
@@ -582,7 +579,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>200 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">04 ovos</div>
@@ -590,7 +587,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">06 ovos</div>
@@ -598,7 +595,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>400 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">08 ovos</div>
@@ -606,7 +603,7 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">10 ovos</div>
@@ -614,14 +611,14 @@ O processo de fabricação dos produtos é assegurado pela pasteurização e con
 		                </tr>
 		                <tr > 
 		                  <td height="34" width="85" > 
-		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 gr</b></div>
+		                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 g</b></div>
 		                  </td>
 		                  <td height="34" width="98" > 
 		                    <div align="center">15 ovos</div>
 		                  </td>
 		                </tr>
 		              </table>
-		                <p><b><strong style="color:#D3252F">01 CLARA</strong> = 33 gr</b></p> 
+		                <p><b><strong style="color:#D3252F">01 CLARA</strong> = 33 g</b></p> 
 		            </div>
 		            
 		            

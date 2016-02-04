@@ -115,20 +115,15 @@
                 
 				<a class="button tiny radius gray">Embalagens com: </a> 
 				
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/6-brancos-aberto.jpg" data-fancybox-group="6-brancos" title="Embalagem com 06 ovos">06 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/6-brancos-fechado.jpg" data-fancybox-group="6-brancos" title="Embalagem com 12 ovos">06 OVOS </a> 
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-brancos/6-ovos.jpg" data-fancybox-group="ovos-brancos" title="Embalagem com 06 ovos">06 OVOS </a> 
                 
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/12-brancos-aberto.jpg" data-fancybox-group="12-brancos" title="Embalagem com 06 ovos">12 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/12-brancos-fechado.jpg" data-fancybox-group="12-brancos" title="Embalagem com 12 ovos">12 OVOS </a> 
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-brancos/12-ovos.jpg" data-fancybox-group="ovos-brancos" title="Embalagem com 12 ovos">12 OVOS </a> 
                 
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/18-brancos-aberto.jpg" data-fancybox-group="18-brancos" title="Embalagem com 18 ovos">18 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/18-brancos-fechado.jpg" data-fancybox-group="18-brancos" title="Embalagem com 18 ovos">18 OVOS </a>
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-brancos/18-ovos.jpg" data-fancybox-group="ovos-brancos" title="Embalagem com 18 ovos">18 OVOS </a> 
                  
-                <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="20-brancos" title="Embalagem com 20 ovos">20 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="20-brancos" title="Embalagem com 20 ovos">20 OVOS </a>
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-brancos/20-ovos.jpg" data-fancybox-group="ovos-brancos" title="Embalagem com 20 ovos">20 OVOS </a> 
                  
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/30-brancos-aberto.jpg" data-fancybox-group="30-brancos" title="Embalagem com 30 ovos">30 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/30-brancos-fechado.jpg" data-fancybox-group="30-brancos" title="Embalagem com 30 ovos">30 OVOS </a>
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-brancos/30-ovos.jpg" data-fancybox-group="ovos-brancos" title="Embalagem com 30 ovos">30 OVOS </a> 
                  
                 
               </div>
@@ -142,8 +137,7 @@
                     <h2>Ovo Branco • In-natura</h2>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
-                        		<li><img src="img/slide/ovo-branco01.jpg" w alt=""/></li> 
-                        		<li><img src="img/slide/cpo-31.jpg" alt=""/></li>                         
+                        		<li><img src="img/slide/ovo-branco01.jpg" w alt=""/></li>                      
                         		<li><img src="img/slide/ovo-01.jpg" alt=""/></li> 
                      		</ul>
                   		</div>
@@ -171,7 +165,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação moderna, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). A Fazenda produz e comercializa ovos pequenos, médios e grandes.<br/><br/>                                                        Os produtos podem vir acondicionados em embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem pode armazenar de 6, 8, 18 a 30 ovos, de acordo com a solicitação do cliente. Veja abaixo as embalagens disponíveis para este produto.                            
+                            Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com boas práticas de higiene na fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). A Fazenda produz e comercializa ovos de galinha pequenos, médios e grandes.                            Os produtos podem vir acondicionados em embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem pode conter de 6 a 30 ovos, de acordo com a solicitação dos clientes. Veja as embalagens disponíveis para este produto.                                                        
 						</p>
                      </div><!-- FIM sobre o ovo -->
 

@@ -118,13 +118,9 @@
                  <a class="button small radius red" href="racoes-peixes.php">PEIXE</a><br/>
                 
                 									<a class="button tiny radius gray">embalagem: </a> 
-                                                    <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovos-vermelhos" title="Ração 50kg">50 kilos </a>  
                                                     
-                                                    <a class="button tiny radius yellow fancybox preview" href="img/produtos/racao/racao-caipira-25-sp4.jpg" data-fancybox-group="25k" title="Ração 25kg">25 kilos </a>
+                                                    <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves-pele25kg.jpg" data-fancybox-group="25k" title="RAÇÃO PARA FRANGO CAIPIRA EM CRESCIMENTO – SP3">25 kilos </a>                                                    <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves-pele251kg.jpg" data-fancybox-group="25k" title="RAÇÃO PARA GALINHA CAIPIRA EM POSTURA EM PÉLETES - SP4 ">25 kilos </a>
                                                       
-                                                    <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/produtos/racao/racao-caipira-25.jpg" data-fancybox-group="25k" title="Ração 25kg">25 kilos </a>  
-                                                    
-                                                    <a class="button tiny radius yellow fancybox preview" href="img/sem-foto.jpg" data-fancybox-group="ovo" title="Ração 5k">05 kilos </a>  
                 
               </div>
                 
@@ -137,8 +133,8 @@
                     <h3>Ração Caipira • Peletizada</h3>                                   
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
-                        		<li><img src="img/slide/fabrica-racoes2.jpg" w alt=""/></li>
-                        		<li><img src="img/slide/fabrica-racoes3.jpg" alt=""/></li>
+                        		<li><img src="img/slide/racao-aves-pele01.jpg" w alt=""/></li>
+                        		<li><img src="img/slide/racao-aves-pele02.jpg" alt=""/></li>
                      		</ul>
                   		</div>
            		  <div class="large-12 columns" id="embalagens">
@@ -164,7 +160,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Os ovos São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária dos veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF. A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.<br/><br/>                            Os produtos transportados podem vir acondicionados e embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem armazena entre 6, 8, 18 a 30 ovos, dependendo do tipo de ovo e da necessidade do cliente. Veja abaixo as embalagens disponíveis para este produto.
+                           Os benefícios da ração peletizada são maiores ganhos de peso em função do maior consumo, agradável ao paladar, preferência das aves, apreensão, que leva a menor movimentação e menos tempo gasto com alimentação.<br/><br/>                           A ração para frangos pode ser utilizada no sistema caipira, desde que balanceada especificamente para frangos de corte e poedeiras, e formulada para atender as exigências nutricionais de cada fase da criação.<br/><br/>                           O aspecto físico da ração também influencia no seu aproveitamento e conservação. As rações peletizadas são feitas com tratamento de vapor e compressão, produzindo péletes com os ingredientes fortemente aderidos, o que irá impedir desperdícios e diminuir a ação de contaminantes.                           
 						</p>
                      </div><!-- FIM sobre o ovo -->
 
@@ -188,173 +184,22 @@
             		
             		               <ul class="pf-container large-block-grid-4 medium-block-grid-4 no-wrap">
             		               
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-            		                    <img src="img/fotos/fabrica02.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/fotos/fabrica02.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-            		                    <div class="text">
-            		                      <h5>Legenda da foto</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="600">
-            		                    <img src="img/fotos/fabrica03.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/fotos/fabrica03.jpg" data-fancybox-group="home" title="foto estrutura"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="700">
-            		                    <div class="text">
-            		                      <h5>Legenda da foto</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/fotos/fabrica04.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/fotos/fabrica04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao01.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao01.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao02.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao02.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao03.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao03.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
+            		                            		                
             		                <li class="web print">
             		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
             		                    <img src="img/produtos/racao/racao04.jpg" alt="" />
             		                    <div class="mask"></div>
             		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao04.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
+            		                      <a class="fancybox preview" href="img/produtos/racao/racao04.jpg" data-fancybox-group="home" title="peletizadas SP4"><i class="icon-search"></i></a>
             		                    </div>
             		                  </div>
             		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
             		                    <div class="text">
-            		                      <h5>Fabrica</h5>
+            		                      <h5>Peletizadas</h5>
             		                    </div>
             		                  </div>
             		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao05.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao05.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao06.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao06.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao07.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao07.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
-            		                <li class="web print">
-            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">
-            		                    <img src="img/produtos/racao/racao08.jpg" alt="" />
-            		                    <div class="mask"></div>
-            		                    <div class="content">
-            		                      <a class="fancybox preview" href="img/produtos/racao/racao08.jpg" data-fancybox-group="home" title="Fachada • Sede"><i class="icon-search"></i></a>
-            		                    </div>
-            		                  </div>
-            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">
-            		                    <div class="text">
-            		                      <h5>Fabrica</h5>
-            		                    </div>
-            		                  </div>
-            		                </li>
-            		                
+            		                            		                <li class="web print">            		                  <div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="800">            		                    <img src="img/fotos/embalagens/racao-aves/racao-aves-pele25kg.jpg" alt="" />            		                    <div class="mask"></div>            		                    <div class="content">            		                      <a class="fancybox preview" href="img/fotos/embalagens/racao-aves/racao-aves-pele25kg.jpg" data-fancybox-group="home" title="peletizadas SP3"><i class="icon-search"></i></a>            		                    </div>            		                  </div>            		                  <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="900">            		                    <div class="text">            		                      <h5>peletizadas</h5>            		                    </div>            		                  </div>            		                </li>            		                      		                
             		                
             		                
             		              <!--<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="#">toda galeria</a>-->

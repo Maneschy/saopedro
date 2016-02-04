@@ -44,65 +44,7 @@
 
 <body>
    <div id="mo-wrapper">
-     <!-- <section id="panel">
-         <div class="row">
-            <div class="large-4 medium-4 columns">
-               <h4>About Us</h4>
-               <p>Sed ut perspiciatis unde omnisite natus error sittery voluptatem accusantium doloremque quae ab illo inventore veritatis etquasi.</p>
-               <a href="#" class="button small yellow">More about us <i class="icon-circleright"></i></a>
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Keep Connect with Us</h4>
-               <ul class="mo-social square">
-                  <li><a class="social-twitter" href="#"></a></li>
-                  <li><a class="social-facebook" href="#"></a></li>
-                  <li><a class="social-google" href="#"></a></li>
-                  <li><a class="social-dribbble" href="#"></a></li>
-                  <li><a class="social-linkedin" href="#"></a></li>
-                  <li><a class="social-wordpress" href="#"></a></li>
-                  <li><a class="social-youtube" href="#"></a></li>
-                  <li><a class="social-instagram" href="#"></a></li>
-                  <li><a class="social-vimeo" href="#"></a></li>
-                  <li><a class="social-spotify" href="#"></a></li>
-                  <li><a class="social-yahoo" href="#"></a></li>
-                  <li><a class="social-skype" href="#"></a></li>
-                  <li><a class="social-feedburner" href="#"></a></li>
-                  <li><a class="social-tumblr" href="#"></a></li>
-                  <li><a class="social-blogger" href="#"></a></li>
-                  <li><a class="social-pinterest" href="#"></a></li>
-                  <li><a class="social-email1" href="#"></a></li>
-                  <li><a class="social-rss" href="#"></a></li>
-               </ul>  
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Login to Your Account</h4>
-               <form>
-                  <div class="row">
-                     <div class="form-group large-12 columns">
-                        <input type="text" class="form-control input-lg" id="name" placeholder="Enter name">
-                     </div>
-
-                     <div class="form-group large-12 columns">
-                        <input type="email" class="form-control" id="email" placeholder="Enter email">
-                     </div>
-
-                     <div class="form-group large-6 columns">
-                        <div class="checkbox">
-                           <label>
-                              <input type="checkbox" id="checkbox" value="option1"> Remember me
-                           </label>
-                        </div>
-                     </div>
-
-                     <div class="form-inline large-6 columns remember">
-                        <button type="submit" class="button small yellow">Login <i class="icon-circleright"></i></button>
-                     </div>
-                  </div>                  
-               </form> 
-            </div>
-         </div>
-      </section>      -->
-
+     
             <?php include './menu_saopedro.php'; ?>
       
 		
@@ -116,16 +58,15 @@
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
                   <div class="blog-media">           
                      <ul class="blog-slide">            
-                        <li><img src="img/fotos/incubatorio/incubatorio081.jpg" w alt=""/></li>       
-                        <li><img src="img/fotos/incubatorio/incubatorio091.jpg" w alt=""/></li>                                                                                                
+                        <li><img src="img/slide/incubatorio-slide.jpg" w alt=""/></li>       
+                        <li><img src="img/slide/incubatorio12.jpg" w alt=""/></li>                                 <li><img src="img/slide/incubatorio03.jpg" w alt=""/></li>                                                                                              
                      </ul>
                   </div>
                   <div class="post-content">
                      <h1 class="mo-animate" data-animate="fadeInDown">Incubatório</h1>                        
                     
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     A Fazenda São Pedro possui um sistema de climatização e automação total no seu incubatório para proporcionar sempre o melhor em termos de qualidade e genética do produto final.
-
+                    Os ovos São Pedro são classificados, selecionados e transportados ao incubatório, por meio de transporte climatizado.                    Fatores como manejo e estocagem dos ovos, manejo de incubadora, nascedouros e condições de manejo do nascimento até a entrega das pintainhas na granja, exercem influência direta sobre a taxa de eclosão dos ovos, bem como sobre a qualidade da pintainha de um dia. O sucesso da incubação é obtido quando todos esses fatores são criteriosamente acompanhados e controlados.<br/><br/>                    A Fazenda São Pedro possui um sistema de climatização e automação total no seu incubatório, para proporcionar, sempre, o melhor em termos de qualidade e genética do produto final.                    
 </p>
                   </div>
                   
@@ -167,20 +108,6 @@
       		                  </div>
       		                </li>
       		                
-							<li class="web print">
-      		                	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-      		                    	<img src="img/fotos/incubatorio/incubatorio02.jpg" alt="" />
-      		                		<div class="mask"></div>
-      		                      	<div class="content">
-      		                        	<a class="fancybox preview" href="img/fotos/incubatorio/incubatorio02.jpg" data-fancybox-group="home" title="Incubatório São Pedro"><i class="icon-search"></i></a>
-      		                      	</div>
-      		                    </div>
-      		                    <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-      		                      	<div class="text">
-      		                        	<h5>Incubatório</h5>
-      		                		</div>
-      		                	</div>
-      		                </li>
       		                
       		                <li class="web print">
       		                  	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
@@ -212,20 +139,6 @@
       		                    	</div>
       		                    </li>
       		                    
-      		                    <li class="web print">
-      		                      	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">
-      		                          	<img src="img/fotos/incubatorio/incubatorio05.jpg" alt="" />
-      		                      		<div class="mask"></div>
-      		                            	<div class="content">
-      		                              	<a class="fancybox preview" href="img/fotos/incubatorio/incubatorio05.jpg" data-fancybox-group="home" title="Incubatório São Pedro"><i class="icon-search"></i></a>
-      		                            	</div>
-      		                          </div>
-      		                          <div class="pf-info mo-animate" data-animate="fadeInLeft" data-delay="500">
-      		                            	<div class="text">
-      		                              	<h5>Incubatório</h5>
-      		                      		</div>
-      		                      	</div>
-      		                      </li>
       		                      
       		                      <li class="web print">
       		                        	<div class="mo-caption effect mo-animate" data-animate="fadeInDown" data-delay="400">

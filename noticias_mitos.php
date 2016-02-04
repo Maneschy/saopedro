@@ -4,7 +4,7 @@
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-   <title>Fazenda São Pedro • A Fazenda</title>
+   <title>Fazenda São Pedro • Notícias</title>
    
    <!-- Reset CSS -->
    <link rel="stylesheet" href="css/reset.css" />
@@ -15,9 +15,12 @@
    <!-- Maleo Framework CSS -->
    <link href="css/maleo.css" rel="stylesheet" />
    
-     <!-- Maleo Component CSS -->
+   <!-- Maleo Component CSS -->
+  <link href="css/components/revolution.css" rel="stylesheet" media="screen"/>
+   <link href="css/components/revolution-responsive.css" rel="stylesheet" media="screen"/>
    <link href="css/components/menu.css" rel="stylesheet" />
    <link href="css/components/mediaplayer.css" rel="stylesheet" />
+   <link href="css/components/imgcaption.css" rel="stylesheet" />
    <link href="css/fancybox.css" rel="stylesheet" />  
    
    <!-- Doc CSS -->
@@ -111,51 +114,42 @@
 			<div class="row">
 				<div class="large-12 columns">
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
-                  <div class="blog-media">           
-                     <ul class="blog-slide">                             
-                        <li><img src="img/slide/fachada-slide.jpg" alt=""/></li>    
-                        <li><img src="img/slide/incubatorio-slide.jpg" w alt=""/></li>                 
-                        <li><img src="img/slide/fabrica-slide.jpg" alt=""/></li>   
-                     </ul>
-                  </div>
+                 
                   <div class="post-content">
-                     <h1 class="mo-animate" data-animate="fadeInDown">Conheça a Fazenda São Pedro</h1>                        
-                    
+                     <h1 class="mo-animate" data-animate="fadeInDown">Mitos e verdades sobre o ovo...</h1>                        
+                                        <div class="blog-media">                                    <ul class="blog-slide">                                  <li><img src="img/receitas/ovos2.jpg" w alt=""/></li>   <!--                                <li><img src="img/slide/slide2.jpg" w alt=""/></li>                                   <li><img src="img/slide/slide3.jpg" w alt=""/></li>  -->                                                                                                                       </ul>                      </div>                                        
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     A Fazenda São Pedro é uma empresa produtora de ovos desde 1986, localizada no Km 3 da Rodovia BR-174 (Manaus - Boa Vista) está consolidada no mercado no qual atualmente é líder na Região Norte em seu ramo de atuação. O alcance desta posição só foi possível graças aos investimentos em tecnologia e em pessoal qualificado.                     Com boas práticas de higiene na fabricação e assistência diária de veterinários, além do conforto térmico das aves, proporcionando um bem-estar animal, é a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). Atualmente, a fazenda conta com uma moderna sala de classificação de ovos, aprovada pelo Selo de Inspeção Estadual (SIE-AM).<br/><br/>                     Constantemente, a Fazenda São Pedro é auditada pelos principais supermercados do Estado. Há alguns anos vem modernizando todos os seus galpões de aves, onde o sistema de trato com a ração e coleta de ovos é totalmente automatizado.<br/><br/>                     Preocupados com as necessidades da granja e a expansão dos negócios, a Fazenda São Pedro optou por construir uma fábrica de ração automatizada, assim, pode produzir ração para aves e para peixes também. Atualmente, produz 240 toneladas de ração por dia, sendo 80 toneladas destinadas ao atendimento da própria granja e da piscicultura.                     A comercialização dos produtos São Pedro é realizada por uma equipe que atende grande parte do Estado do Amazonas e Estados vizinhos.                     <br/><br/>   
+                   Existe risco em consumir ovo cru ou com a gema mole?<br/><br/>                                      <strong>Verdade</strong> Eventuais bactérias presentes no alimento, como a salmonella, que podem sobreviver e causar infecções, principalmente em gestantes, idosos, crianças e imunodeficientes. Cozinhar os ovos por 12 minutos é a melhor maneira de consumi-los. Pratos preparados com ovos crus, como doces e gemadas, também precisam de atenção.<br/><br/>                                                         A gema tem mais nutrientes do que a clara?<br/><br/>                  <strong>Verdade</strong> A gema contém vitaminas A, D e E, facilmente absorvidas pelo organismo, além de lecitina, que controla níveis de colesterol e gordura, e antioxidantes como a luteína e zeaxantina; ao passo que a clara oferece vitaminas do complexo B e minerais.<br/><br/>                                                         A clara de ovo é realmente benéfica para os atletas?<br/><br/>                   <strong>Verdade</strong> A clara não tem gordura e é muito rica em albumina. O consumo da clara de ovo é indicado para os esportistas no pós-treino, para auxiliar na recuperação e na restauração muscular.<br/><br/>                                                         Preciso lavar os ovos antes de guardá-los?<br/><br/>                   <strong>Mito</strong> Não há necessidade de lavar os ovos antes de guardá-los, porque atualmente eles passam por um rígido controle de qualidade.                   O ovo aumenta o colesterol?<br/><br/>                                                        <strong>Mito</strong> O ovo, por conter em sua gema aproximadamente 213mg de colesterol, foi considerado um vilão da dieta e sua recomendação foi limitada durante muito tempo. Hoje, muitos estudos demonstram uma relação inversa entre o consumo de ovo e aumento de colesterol e ainda enfatizam os benefícios que podem trazer à saúde, entre eles memória, capacidade cognitiva e formação de novos neurônios. Estudos científicos comprovam que as doenças cardiovasculares estão mais relacionadas com as complicações hereditárias e maus hábitos alimentares, como ingerir gorduras saturadas, principalmente as trans, do que com os níveis de colesterol dos ovos.                   <br/><br/>                                       
+
+
 </p>
+				
+                  <br/>
+                  
+                  
+                  
+                  
                   </div>
+                   
+                  
                </article>
-               
-
-              
-
+<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="noticias.php">« voltar para noticias</a>
 			</div>				
 			</div>               
 		</section>      		
-        <section class="mo-content">
-		<div class="row">
-         <br>
-			<div class="large-12 columns mo-animate" data-animate="fadeInDown">
 
-               <!--<div class="blog-author mo-animate" data-animate="fadeInDown">
-                  <h6>
-                     <span>NUtricionaista Responsável</span>
-                  </h6>
-                  <img src="img/sample/team6.jpg" alt="" />
-                  <h5>Fulano de tal</h5>
-                  <ul class="mo-social blog-social">
-                     <li><a href="#"><i class="social-facebook"></i>Facebook</a></li>
-                     <li><a href="#"><i class="social-twitter"></i>Twitter</a></li>
-                     <li><a href="#"><i class="social-google"></i>Google+</a></li>
-                  </ul>
-                  <p class="text-overflow">
-                     Everything you're seeing here is pulled through dynamically from the WordPress admin panel. Simply go to your user profile, fille out the URLs to your social media profiles, fill in the biographical info, and you're good to go!
-                  </p>
-               </div>-->
-               </div>
-               </div>
-               </section>
+     <section class="mo-content">
+         <div class="row">
+            <div class="large-12 columns">
+               <hr/> 
+            </div>
+         </div>
+      </section>
+
+     
+                           
+
+
                
          <?php include './footer_saopedro.php'; ?>
    </div>      

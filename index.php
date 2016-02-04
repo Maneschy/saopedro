@@ -44,65 +44,7 @@
 
 <body><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.5";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
    <div id="mo-wrapper">
-     <!-- <section id="panel">
-         <div class="row">
-            <div class="large-4 medium-4 columns">
-               <h4>About Us</h4>
-               <p>Sed ut perspiciatis unde omnisite natus error sittery voluptatem accusantium doloremque quae ab illo inventore veritatis etquasi.</p>
-               <a href="#" class="button small yellow">More about us <i class="icon-circleright"></i></a>
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Keep Connect with Us</h4>
-               <ul class="mo-social square">
-                  <li><a class="social-twitter" href="#"></a></li>
-                  <li><a class="social-facebook" href="#"></a></li>
-                  <li><a class="social-google" href="#"></a></li>
-                  <li><a class="social-dribbble" href="#"></a></li>
-                  <li><a class="social-linkedin" href="#"></a></li>
-                  <li><a class="social-wordpress" href="#"></a></li>
-                  <li><a class="social-youtube" href="#"></a></li>
-                  <li><a class="social-instagram" href="#"></a></li>
-                  <li><a class="social-vimeo" href="#"></a></li>
-                  <li><a class="social-spotify" href="#"></a></li>
-                  <li><a class="social-yahoo" href="#"></a></li>
-                  <li><a class="social-skype" href="#"></a></li>
-                  <li><a class="social-feedburner" href="#"></a></li>
-                  <li><a class="social-tumblr" href="#"></a></li>
-                  <li><a class="social-blogger" href="#"></a></li>
-                  <li><a class="social-pinterest" href="#"></a></li>
-                  <li><a class="social-email1" href="#"></a></li>
-                  <li><a class="social-rss" href="#"></a></li>
-               </ul>  
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Login to Your Account</h4>
-               <form>
-                  <div class="row">
-                     <div class="form-group large-12 columns">
-                        <input type="text" class="form-control input-lg" id="name" placeholder="Enter name">
-                     </div>
-
-                     <div class="form-group large-12 columns">
-                        <input type="email" class="form-control" id="email" placeholder="Enter email">
-                     </div>
-
-                     <div class="form-group large-6 columns">
-                        <div class="checkbox">
-                           <label>
-                              <input type="checkbox" id="checkbox" value="option1"> Remember me
-                           </label>
-                        </div>
-                     </div>
-
-                     <div class="form-inline large-6 columns remember">
-                        <button type="submit" class="button small yellow">Login <i class="icon-circleright"></i></button>
-                     </div>
-                  </div>                  
-               </form> 
-            </div>
-         </div>
-      </section>      -->
-
+    
       <?php include './menu_saopedro.php'; ?>
 
       <section class="mo-content">
@@ -122,10 +64,9 @@
                   </li>
 
                   <li class="block-size var5 mo-animate" data-animate="bounceIn" data-delay="400">
-                     <div id="img-slide" class="owl-carousel">
+                     <div id="img-slide" class="owl-carousel">                     <a href="ovos-premium.php"><img class="the-thumb" src="img/slide/banner-ovo-premium-2.jpg" alt="" /></a>
                         <img class="the-thumb" src="img/slide/banner-ovo-inatura.jpg" alt="" />
-                        <img class="the-thumb" src="img/slide/banner-ovo-liquido.jpg" alt="" />
-                        <img class="the-thumb" src="img/slide/banner-ovo-inatura2.jpg" alt="" />
+                        <a href="ovos-pasteurizados-gemas.php"><img class="the-thumb" src="img/slide/banner-ovo-liquido.jpg" alt="" /></a>
                         <!--<img class="the-thumb" src="img/slide/banner-ambiental.jpg" alt="" />-->
                      </div>
                   </li>
@@ -156,7 +97,7 @@
                   </div>    
                   <h2 class="gap mo-animate" data-animate="fadeInDown" data-delay="400" data-top="0" data-bottom="12" style="font-family:Lobster;">Tradição • Tecnologia • Qualidade</h2> 
                   <p class="mo-animate" data-animate="fadeInDown" data-delay="600" style="font-weight:300; font-size:18px;">
-                     A Fazenda São Pedro, empresa produtora de ovos desde 1986, situada no quilômetro três da rodovia BR - 174 (estrada que liga Manaus à Boa Vista) vêm trabalhando com afinco para consolidar-se no mercado, no qual é líder em seu ramo de atuação. O alcance dessa posição só foi possível graças aos investimentos em tecnologia e em pessoal qualificado. Seus núcleos de postura, classificação de ovos e seu setor de transporte estão muito bem aparelhados para que os ovos cheguem com qualidade até o consumidor.
+                     A Fazenda São Pedro é uma empresa produtora de ovos desde 1986, localizada no Km 3 da Rodovia BR-174 (Manaus - Boa Vista) está consolidada no mercado no qual atualmente é líder na Região Norte em seu ramo de atuação. O alcance desta posição só foi possível, graças aos investimentos em tecnologia e em pessoal qualificado.
                   </p>
                </div>
             </div>
@@ -169,7 +110,7 @@
                <div class="feature">
                <a href="ovos-brancos.php"><div class="ico-ovo"><img src="img/ico-ovo.png"> </div> </a>   
                   <h4>Ovos de Qualidade</h4> 
-                  <p>Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela ADAF. A Fazenda São Pedro produz e comercializa ovos de galinha pequenos, médios e grandes.</p>
+                  <p>Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com boas práticas de higiene na fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). A Fazenda produz e comercializa ovos de galinha pequenos, médios e grandes</p>
                </div>
             </div>
 
@@ -177,7 +118,7 @@
                <div class="feature">
                   <a href="racoes-peixes.php"><div class="ico-pinto"><img src="img/ico-peixe.png"> </div>   </a>
                   <h4>Piscicultura</h4> 
-                  <p>A Fazenda São Pedro possui uma das maiores e melhores estruturas de produção de peixes da região Norte. O Controle de qualidade é rigorosíssimo, com um sistema de monitoramento do oxigênio e controle de temperatura da água, que tem como objetivo minimizar ao máximo o stress dos peixes.</p>
+                  <p>A Fazenda São Pedro possui uma estrutura de produção de peixes com controle de qualidade rigoroso, com um sistema de monitoramento do oxigênio e controle de temperatura da água, que tem como objetivo minimizar ao máximo o stress dos peixes.</p>
                </div>
             </div>
 
@@ -186,7 +127,7 @@
                  <a href="racoes-aves.php"> <div class="ico-racao"><img src="img/ico-racao.png"> </div></a>
                       
                   <h4>Rações Eficientes</h4> 
-                  <p>Oferecemos rações de alta qualidade, para uma grande variedade de animais.<br/>                  Atendemos tanto produções de grande escala como pequenas propriedades.                  </p>
+                  <p>A Fazenda São Pedro comercializa rações de qualidade para peixes e aves. Atende tanto produções de grande escala como pequenas propriedades.                  </p>
                </div>
             </div>
         </div>               
@@ -223,7 +164,7 @@
                         </div>
                         <div class="blog-content1">
                            <p class="blog-date"><h5 style="color:#FFF; margin-left:10px;">• Notícias •</h5></p>
-                           <p><a href="noticias001.php">Você já ouviu falar em ovo pasteurizado?</a></p>
+                           <p><a href="noticias_ovo_pasteurizado.php">Você já ouviu falar em ovo pasteurizado?</a></p>
                            <div class="blog-info">
                               <div class="post-type">
                                  <i class="icon-picture"></i>
@@ -252,7 +193,9 @@
                   
                   <li class="mo-animate" data-animate="fadeInRight" data-delay="600">
                      <div class="blog-columns">
-                                                                                 <div class="fb-video" data-href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/" data-width="395"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"><a href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"></a><p>Fazenda São Pedro.                           Tradição, tecnologia e qualidade.</p>Posted by <a href="https://www.facebook.com/fazendasaopedroam/">Fazenda São Pedro</a> on Quinta, 17 de setembro de 2015</blockquote></div></div>                                                      
+                     
+                     <iframe width="100%" height="215" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>
+                                                                                <!-- <div class="fb-video" data-href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/" data-width="395"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"><a href="https://www.facebook.com/fazendasaopedroam/videos/1642862545956105/"></a><p>Fazenda São Pedro.                           Tradição, tecnologia e qualidade.</p>Posted by <a href="https://www.facebook.com/fazendasaopedroam/">Fazenda São Pedro</a> on Quinta, 17 de setembro de 2015</blockquote></div></div>                           -->                           
                        <div class="blog-content1">                       <br/>
                            <p class="blog-date"><h5 style="color:#FFF; margin-left:10px;">• Vídeo •</h5></p>
                            <p><a href="#">Nosso Vídeo institucional</a></p>

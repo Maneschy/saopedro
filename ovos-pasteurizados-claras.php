@@ -41,64 +41,7 @@
 
 <body>
    <div id="mo-wrapper">
-     <!-- <section id="panel">
-         <div class="row">
-            <div class="large-4 medium-4 columns">
-               <h4>About Us</h4>
-               <p>Sed ut perspiciatis unde omnisite natus error sittery voluptatem accusantium doloremque quae ab illo inventore veritatis etquasi.</p>
-               <a href="#" class="button small yellow">More about us <i class="icon-circleright"></i></a>
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Keep Connect with Us</h4>
-               <ul class="mo-social square">
-                  <li><a class="social-twitter" href="#"></a></li>
-                  <li><a class="social-facebook" href="#"></a></li>
-                  <li><a class="social-google" href="#"></a></li>
-                  <li><a class="social-dribbble" href="#"></a></li>
-                  <li><a class="social-linkedin" href="#"></a></li>
-                  <li><a class="social-wordpress" href="#"></a></li>
-                  <li><a class="social-youtube" href="#"></a></li>
-                  <li><a class="social-instagram" href="#"></a></li>
-                  <li><a class="social-vimeo" href="#"></a></li>
-                  <li><a class="social-spotify" href="#"></a></li>
-                  <li><a class="social-yahoo" href="#"></a></li>
-                  <li><a class="social-skype" href="#"></a></li>
-                  <li><a class="social-feedburner" href="#"></a></li>
-                  <li><a class="social-tumblr" href="#"></a></li>
-                  <li><a class="social-blogger" href="#"></a></li>
-                  <li><a class="social-pinterest" href="#"></a></li>
-                  <li><a class="social-email1" href="#"></a></li>
-                  <li><a class="social-rss" href="#"></a></li>
-               </ul>  
-            </div>
-            <div class="large-4 medium-4 columns">
-               <h4>Login to Your Account</h4>
-               <form>
-                  <div class="row">
-                     <div class="form-group large-12 columns">
-                        <input type="text" class="form-control input-lg" id="name" placeholder="Enter name">
-                     </div>
-
-                     <div class="form-group large-12 columns">
-                        <input type="email" class="form-control" id="email" placeholder="Enter email">
-                     </div>
-
-                     <div class="form-group large-6 columns">
-                        <div class="checkbox">
-                           <label>
-                              <input type="checkbox" id="checkbox" value="option1"> Remember me
-                           </label>
-                        </div>
-                     </div>
-
-                     <div class="form-inline large-6 columns remember">
-                        <button type="submit" class="button small yellow">Login <i class="icon-circleright"></i></button>
-                     </div>
-                  </div>                  
-               </form> 
-            </div>
-         </div>
-      </section>      -->
+     
 
             <?php include './menu_saopedro.php'; ?>
       
@@ -109,15 +52,15 @@
            		</div> 
                 
                 <div style="text-align:left;"> <img style="float:left; margin-right:20px; margin-top:-15px;" src="img/produtos/logo-ovos-produtos.png">
-                 	<a class="button small radius red" href="ovos-pasteurizados-gemas.html"> GEMAS PASTEURIZADAS </a> 
+                 	<a class="button small radius red" href="ovos-pasteurizados-gemas.php"> GEMAS PASTEURIZADAS </a> 
                  	<a class="button small radius yellow" href="#"> CLARAS PASTEURIZADAS </a>
-                 	<a class="button small radius red" href="ovos-pasteurizados-integral.html"> INTEGRAL PASTEURIZADO (gema+clara) </a>
+                 	<a class="button small radius red" href="ovos-pasteurizados-integral.php"> INTEGRAL PASTEURIZADO (gema+clara) </a>
                  <br/>
                 
-                	<a class="button tiny radius gray">Embalagens com: </a> 
-                    <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="clara" title="Embalagem com 350 gramas de clara pasteurizada">350 gramas </a>  
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-1kilo.jpg" data-fancybox-group="clara" title="Embalagem com 01 kilo de clara pasteurizada">01 kilo </a>  
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-5kilos.jpg" data-fancybox-group="clara" title="Embalagem com 05 kilos de clara pasteurizada">05 kilos </a>  
+                	<a class="button tiny radius gray">Embalagens com: </a> <!--
+                    <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="clara" title="Embalagem com 350 gramas de clara pasteurizada">350 gramas </a>  -->
+                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-clara-1k.jpg" data-fancybox-group="clara" title="Embalagem com 01 kilo de clara pasteurizada">01 kilo </a>  
+                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-clara-5k.jpg" data-fancybox-group="clara" title="Embalagem com 05 kilos de clara pasteurizada">05 kilos </a>  
                 
               </div>
                 
@@ -131,7 +74,7 @@
                  		<div class="blog-media">           
                     		<ul class="blog-slide">
                             	<li><img src="img/slide/clara-neve.jpg" alt=""/></li>                                                    
-                        		<li><img src="img/slide/embalagem-pasteurizadas-5k.jpg" alt=""/></li>
+                        		<li><img src="img/slide/clara-liquido-5kilos.jpg" alt=""/></li>
                         		<li><img src="img/slide/cozinheira-doces.jpg" w alt=""/></li>
                         		
                      		</ul>
@@ -159,8 +102,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Ovo líquido pasteurizado é produzido a partir de ovos selecionados, sem utilização de conservantes ou qualquer outro ingrediente. Pela sua praticidade é ideal para ser usado em panificadoras, restaurantes, cozinhas industriais, supermercados etc. <br/><br/>
-                            Com ele, é possível desenvolver vários pratos, como massas e suplementos, maioneses e molhos, além de sobremesas como suspiros, quindins, merengues e pudins. Pode ser utilizado em todos os processos que utilizam ovos in natura (ovos comuns).
+                            Quem é fã de academia não perde tempo em procurar um suplemento que ajude a fazer os músculos aparecerem e que seja bom e barato. A clara do ovo é uma das boas alternativas. Mas, além de ajudar a definir os músculos a clara do ovo ajuda a deixar a pele do rosto mais firme e jovem devido sua grande quantidade de colágeno.<br/><br/>                            A proteína chamada albumina é encontrada em cerca de 80% da clara de ovo. Essa proteína é livre de colesterol e lactose e ainda é fonte de BCAA. Para chegar até a proteína é necessário passar por algumas etapas como a desidratação e a pasteurização que tornam o seu uso mais seguro.<br/><br/>                            O mais interessante é que esses benefícios não estão ligados somente à ingestão da clara, mas também ao seu uso sobre a pele como a matéria-prima de alguns tratamentos caseiros.<br/><br/>                            
                             
                            <h3>+ vantagem para o comerciante </h3> 
                            
@@ -168,7 +110,7 @@
                            Com o ovo líquido pasteurizado não há perdas, porque ele é 100% aproveitado no momento da manipulação direta.<br/><br/>
                            
                            <strong>SEGURANÇA ALIMENTAR</strong><br/>
-                           Além de garantir mais organização e limpeza ao ambiente de preparo, a utilização de ovos líquidos pasteurizados elimina o risco de contaminação por microorganismos vivos e a bactéria Salmonella.<br/><br/>
+                           Além de garantir mais organização e limpeza ao ambiente de preparo, a utilização de ovos líquidos pasteurizados elimina o risco de contaminação por microorganismos vivos e a bactéria Salmonella.<br/><br/>                           
                            <strong>MELHOR ARMAZENAMENTO</strong><br/>
                            Otimização de espaço, devido as características do produto.<b style="color:#F00;"> (conservar o produto refrigerado entre 0 e 5º C)</b><br/><br/>
                             
@@ -204,63 +146,7 @@
             
            		<div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">
                 
-            <h4 style="font-weight:900;">Informação Nutricional </h4>
-               		<table class="table red">
-                  		<thead>
-                     		<tr>
-                        		<th class="table-width30" style="color:#FFF;">50 gr ovo integral* <br/></th>
-                                <th class="align-center table-width5" style="color:#FFF; text-align:center;">quantidade por porção</th>
-                                <th class="align-right table-width5" style="color:#FFF; text-align:center;">%VD(*)</th>
-                     		</tr>
-                  		</thead>
-                  		<tbody>
-                     		<tr>
-                            	<td>Valor Energético</td>
-                        		<td class="align-center" style="text-align:center;">74Kcal=310Kj</td>
-                        		<td style="text-align:center;">3,7%</td>
-                    		</tr>
-                     		<tr>
-                            	<td>Carboidratos</td>
-                        		<td class="align-center" style="text-align:center;">0,6g</td>
-                        		<td style="text-align:center;">0,3%</td>
-                     		</tr>
-                     		<tr>
-                            	<td>Proteínas</td>
-                        		<td class="align-center" style="text-align:center;">6,2g</td>
-                        		<td style="text-align:center;">8,6%</td>
-                     		</tr>
-                     		<tr>
-                            	<td>Gorduras Totais</td>
-                        		<td class="align-center" style="text-align:center;">5,0g</td>
-                        		<td style="text-align:center;">9%</td>
-                     		</tr>
-                     		<tr>
-                            	<td>Gorduras Saturadas</td>
-                        		<td class="align-center" style="text-align:center;">1,8g</td>
-                        		<td style="text-align:center;">8%</td>
-                     		</tr>
-                     		<tr>
-                            	<td>Gorduras trans</td>
-                        		<td class="align-center" style="text-align:center;">0g</td>
-                        		<td style="text-align:center;">-</td>
-                     		</tr>
-                     		<tr>
-                            	<td>Fibra Alimentar</td>
-                        		<td class="align-center" style="text-align:center;">0g</td>
-                        		<td style="text-align:center;">0%</td>
-                     		</tr>
-                     		<tr>
-                            	<td>Sódio</td>
-                        		<td class="align-center" style="text-align:center;">63mg</td>
-                        		<td style="text-align:center;">3%</td>
-                     		</tr>
-                  		</tbody>
-              		 </table>    
-                     <p><b>(*) = 01 ovo grande</b> • 
-                     
-                     Valores diários de referência com base em uma dieta de 2.000kcal ou 8.400kj. seus valores diários podem ser maiores ou menores dependendo da sua necessidade energética.
-            	</p>
-                </div>
+            <h4 style="font-weight:900;">Informação Nutricional </h4>               		<table class="table red">                  		<thead>                     		<tr>                        		<th class="table-width30" style="color:#FFF; font-size: 12px;">Porção referente a 100g de clara integral                        		(1/2 xícara de chá) <br/></th>                                <th class="align-center table-width5" style="color:#FFF; text-align:center;">quantidade por porção</th>                                <th class="align-right table-width5" style="color:#FFF; text-align:center;">%VD(*)</th>                     		</tr>                  		</thead>                  		<tbody>                     		<tr>                            	<td>Valor Energético</td>                        		<td class="align-center" style="text-align:center;">50Kcal=209Kj</td>                        		<td style="text-align:center;">2,5%</td>                    		</tr>                     		<tr>                            	<td>Carboidratos</td>                        		<td class="align-center" style="text-align:center;">1,0g</td>                        		<td style="text-align:center;">0,3%</td>                     		</tr>                     		<tr>                            	<td>Proteínas</td>                        		<td class="align-center" style="text-align:center;">10,5g</td>                        		<td style="text-align:center;">14,0%</td>                     		</tr>                     		<tr>                            	<td>Gorduras Totais</td>                        		<td class="align-center" style="text-align:center;">0,1g</td>                        		<td style="text-align:center;">0,1%</td>                     		</tr>                     		<tr>                            	<td>Gorduras Saturadas</td>                        		<td class="align-center" style="text-align:center;">0g</td>                        		<td style="text-align:center;">**</td>                     		</tr>                     		<tr>                            	<td>Gorduras trans</td>                        		<td class="align-center" style="text-align:center;">0g</td>                        		<td style="text-align:center;">**</td>                     		</tr>                     		<tr>                            	<td>Fibra Alimentar</td>                        		<td class="align-center" style="text-align:center;">0g</td>                        		<td style="text-align:center;">**</td>                     		</tr>                     		<tr>                            	<td>Sódio</td>                        		<td class="align-center" style="text-align:center;">164g</td>                        		<td style="text-align:center;">6,8%</td>                     		</tr>                  		</tbody>              		 </table>                         <p>                                          (*)Valores diários de referência com base em uma dieta de 2.000kcal ou 8.400kj. seus valores diários podem ser maiores ou menores dependendo da sua necessidade energética. (**) VD não estabelecida.             	</p>                </div>
                 
                  <div class="large-5 medium-5 medium-potrait-12 columns mo-animate" data-animate="fadeInDown"> 
             <h4 style="font-weight:900;">Tabela de equivalência</h4>
@@ -291,14 +177,6 @@
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>300 g</b></div>
-                  </td>
-                  <td height="34" width="98" > 
-                    <div align="center">09 claras</div>
-                  </td>
-                </tr>
-                <tr > 
-                  <td height="34" width="85" > 
                     <div align="center" style="color:#D3252F; font-weight:900;"><b>400 g</b></div>
                   </td>
                   <td height="34" width="98" > 
@@ -307,24 +185,32 @@
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>500 g</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>600 g</b></div>
                   </td>
                   <td height="34" width="98" > 
-                    <div align="center">15 claras</div>
+                    <div align="center">18 claras</div>
                   </td>
                 </tr>
                 <tr > 
                   <td height="34" width="85" > 
-                    <div align="center" style="color:#D3252F; font-weight:900;"><b>750 g</b></div>
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>800 g</b></div>
                   </td>
                   <td height="34" width="98" > 
-                    <div align="center">22 claras</div>
+                    <div align="center">25 claras</div>
+                  </td>
+                </tr>
+                <tr > 
+                  <td height="34" width="85" > 
+                    <div align="center" style="color:#D3252F; font-weight:900;"><b>1.000 g</b></div>
+                  </td>
+                  <td height="34" width="98" > 
+                    <div align="center">31 claras</div>
                   </td>
                 </tr>
               </table>
-                <p><b><strong style="color:#D3252F">01 CLARA</strong> = 33 g</b></p> 
+                <p><b><strong style="color:#D3252F">VALORES APROXIMADOS • 01 CLARA</strong> = 33 g</b></p>                 <img class="the-thumb" src="img/composicao-clara.png">
             </div>
-<div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">    <h4 style="font-weight:900;">Veja o vídeo </h4>   		         		         		      <iframe width="560" height="315" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>   		         		         		               	</div>
+<div class="large-7 medium-6 medium-potrait-12 columns mo-animate" data-animate="fadeInDown">    <h4 style="font-weight:900;">Veja o vídeo </h4>   		         		         		      <iframe width="560" height="315" src="https://www.youtube.com/embed/l0EMgPiE6Vw" frameborder="0" allowfullscreen></iframe>   		         		         		               	</div>	
 			</div><!--// "large-12 columns mo-animate" -->
             	<div class="large-12 columns">
                		<hr>

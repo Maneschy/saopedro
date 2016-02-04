@@ -114,20 +114,15 @@
                  <a class="button small radius red" href="ovos-pasteurizados-gemas.html"> OVOS PASTEURIZADOS </a>-->
                  <br/>
                 <a class="button tiny radius gray">Embalagens com: </a> 
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/6-vermelhos-aberto.jpg" data-fancybox-group="6-vermelhos" title="Embalagem com 06 ovos">06 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/6-vermelhos-fechado.jpg" data-fancybox-group="6-vermelhos" title="Embalagem com 12 ovos">06 OVOS </a> 
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/6-vermelhos-fechado.jpg" data-fancybox-group="vermelhos" title="Embalagem com 06 ovos">06 OVOS </a> 
                 
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/12-vermelhos-fechado.jpg" data-fancybox-group="12-vermelhos" title="Embalagem com 06 ovos">12 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/12-vermelhos-fechado1.jpg" data-fancybox-group="12-vermelhos" title="Embalagem com 12 ovos">12 OVOS </a> 
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-vermelhos/12-ovos.jpg" data-fancybox-group="vermelhos" title="Embalagem com 12 ovos">12 OVOS </a> 
                 
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/18-vermelhos-aberto.jpg" data-fancybox-group="18-vermelhos" title="Embalagem com 18 ovos">18 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/18-vermelhos-fechado.jpg" data-fancybox-group="18-vermelhos" title="Embalagem com 18 ovos">18 OVOS </a>
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-vermelhos/18-ovos.jpg" data-fancybox-group="vermelhos" title="Embalagem com 18 ovos">18 OVOS </a> 
                  
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/20-vermelhos-aberto.jpg" data-fancybox-group="20-vermelhos" title="Embalagem com 20 ovos">20 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/20-vermelhos-fechado.jpg" data-fancybox-group="20-vermelhos" title="Embalagem com 20 ovos">20 OVOS </a>
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-vermelhos/20-ovos.jpg" data-fancybox-group="vermelhos" title="Embalagem com 20 ovos">20 OVOS </a> 
                  
-                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/30-vermelhos-aberto.jpg" data-fancybox-group="30-vermelhos" title="Embalagem com 30 ovos">30 OVOS </a> 
-                <a style="display: none;" class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/30-vermelhos-fechado.jpg" data-fancybox-group="30-vermelhos" title="Embalagem com 30 ovos">30 OVOS </a>
+                <a class="button tiny radius yellow fancybox preview" href="img/fotos/embalagens/ovos-vermelhos/30-ovos.jpg" data-fancybox-group="vermelhos" title="Embalagem com 30 ovos">30 OVOS </a> 
                 
                 
               </div>
@@ -142,7 +137,7 @@
                  		<div class="blog-media">           
                     		<ul class="blog-slide">                          
                         		<li><img src="img/slide/ovo-vermelho01.jpg" w alt=""/></li>
-                        		<li><img src="img/slide/cpo-5.jpg" alt=""/></li>                         
+                        		<li><img src="img/slide/ovo-vermelhoOK.jpg" alt=""/></li>                         
                         		<li><img src="img/slide/ovo-02.jpg" alt=""/></li> 
                      		</ul>
                   		</div>
@@ -170,7 +165,7 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-                            Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com um rigoroso controle sanitário, boas práticas de fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). A Fazenda produz e comercializa ovos de galinha pequenos, médios e grandes.<br/>                            Os produtos podem vir acondicionados em embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem pode conter de 6 a 30 ovos, de acordo com a solicitação do cliente. Veja as embalagens disponíveis para este produto.                            
+                            Os ovos de galinha São Pedro são produzidos em instalações de criação e de classificação modernas, com boas práticas de higiene na fabricação e assistência diária de veterinários, sendo a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). A Fazenda produz e comercializa ovos de galinha pequenos, médios e grandes.                            Os produtos podem vir acondicionados em embalagens de polpa tipo bandeja, bem como embalagens de isopor tipo estojo. Cada embalagem pode conter de 6 a 30 ovos, de acordo com a solicitação dos clientes. Veja as embalagens disponíveis para este produto.                                                        
 						</p>
                      </div><!-- FIM sobre o ovo -->
 

@@ -4,7 +4,7 @@
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-   <title>Fazenda São Pedro • A Fazenda</title>
+   <title>Fazenda São Pedro • Dicas & Receitas</title>
    
    <!-- Reset CSS -->
    <link rel="stylesheet" href="css/reset.css" />
@@ -15,9 +15,12 @@
    <!-- Maleo Framework CSS -->
    <link href="css/maleo.css" rel="stylesheet" />
    
-     <!-- Maleo Component CSS -->
+   <!-- Maleo Component CSS -->
+  <link href="css/components/revolution.css" rel="stylesheet" media="screen"/>
+   <link href="css/components/revolution-responsive.css" rel="stylesheet" media="screen"/>
    <link href="css/components/menu.css" rel="stylesheet" />
    <link href="css/components/mediaplayer.css" rel="stylesheet" />
+   <link href="css/components/imgcaption.css" rel="stylesheet" />
    <link href="css/fancybox.css" rel="stylesheet" />  
    
    <!-- Doc CSS -->
@@ -111,51 +114,42 @@
 			<div class="row">
 				<div class="large-12 columns">
 					<article class="with-media inner-post mo-animate" data-animate="fadeInDown">                                    
-                  <div class="blog-media">           
-                     <ul class="blog-slide">                             
-                        <li><img src="img/slide/fachada-slide.jpg" alt=""/></li>    
-                        <li><img src="img/slide/incubatorio-slide.jpg" w alt=""/></li>                 
-                        <li><img src="img/slide/fabrica-slide.jpg" alt=""/></li>   
-                     </ul>
-                  </div>
+                 
                   <div class="post-content">
-                     <h1 class="mo-animate" data-animate="fadeInDown">Conheça a Fazenda São Pedro</h1>                        
-                    
+                     <h1 class="mo-animate" data-animate="fadeInDown">Bolo de Macaxeira</h1>                     <br/><br/>                        
+                    <div class="blog-media">                                    <ul class="blog-slide">                                  <li><img src="img/receitas/bolo-macaxeira.jpg" w alt=""/></li>                                                                                                                     </ul>                      </div>                      <br/><br/>
                      <p class="mo-animate" data-animate="fadeInDown" data-delay="400" style="font-weight:100; font-size:25px; line-height:33px">
-                     A Fazenda São Pedro é uma empresa produtora de ovos desde 1986, localizada no Km 3 da Rodovia BR-174 (Manaus - Boa Vista) está consolidada no mercado no qual atualmente é líder na Região Norte em seu ramo de atuação. O alcance desta posição só foi possível graças aos investimentos em tecnologia e em pessoal qualificado.                     Com boas práticas de higiene na fabricação e assistência diária de veterinários, além do conforto térmico das aves, proporcionando um bem-estar animal, é a pioneira em ter a qualidade atestada pela Agência de Defesa Agropecuária e Florestal (ADAF). Atualmente, a fazenda conta com uma moderna sala de classificação de ovos, aprovada pelo Selo de Inspeção Estadual (SIE-AM).<br/><br/>                     Constantemente, a Fazenda São Pedro é auditada pelos principais supermercados do Estado. Há alguns anos vem modernizando todos os seus galpões de aves, onde o sistema de trato com a ração e coleta de ovos é totalmente automatizado.<br/><br/>                     Preocupados com as necessidades da granja e a expansão dos negócios, a Fazenda São Pedro optou por construir uma fábrica de ração automatizada, assim, pode produzir ração para aves e para peixes também. Atualmente, produz 240 toneladas de ração por dia, sendo 80 toneladas destinadas ao atendimento da própria granja e da piscicultura.                     A comercialização dos produtos São Pedro é realizada por uma equipe que atende grande parte do Estado do Amazonas e Estados vizinhos.                     <br/><br/>   
+                     <strong>ingredientes</strong><br/><br/>                     • 1 kg de macaxeira<br/>                     • 2 xícaras (chá) de leite de gado<br/>                     • 1 coco ralado<br/>                     • 4 ovos inteiros<br/>                     • 2 colheres (sopa) de manteiga derretida<br/>                     • 1 xícara (chá) de farinha de trigo<br/>                     • 1 colher (sopa) de fermento em pó<br/>                     • Sal a gosto<br/><br/>                                                                                    <strong>Modo de preparo</strong><br/><br/>                                         Rale a macaxeira, esprema e coloque numa vasilha.                    Passe no liquidificador metade do coco com o leite de gado, para tirar o leite de coco.                    A outra metade do coco ralado, junte com a macaxeira, assim como os 4 ovos, a manteiga, o leite de coco, a farinha de trigo e o fermento.<br/><br/>                    Leve ao forno em forma untada.                    Corte em pedaços e sirva.<br/><br/>                    Rendimento: 10 porções                                                             
+
+
 </p>
+				
+                  <br/>
+                  
+                  
+                  
+                  
                   </div>
+                   
+                  
                </article>
-               
-
-              
-
+<a class="button medium yellow" style=" margin-left:15px; border-radius:5px;" href="receitas.php">« voltar para receitas</a>
 			</div>				
 			</div>               
 		</section>      		
-        <section class="mo-content">
-		<div class="row">
-         <br>
-			<div class="large-12 columns mo-animate" data-animate="fadeInDown">
 
-               <!--<div class="blog-author mo-animate" data-animate="fadeInDown">
-                  <h6>
-                     <span>NUtricionaista Responsável</span>
-                  </h6>
-                  <img src="img/sample/team6.jpg" alt="" />
-                  <h5>Fulano de tal</h5>
-                  <ul class="mo-social blog-social">
-                     <li><a href="#"><i class="social-facebook"></i>Facebook</a></li>
-                     <li><a href="#"><i class="social-twitter"></i>Twitter</a></li>
-                     <li><a href="#"><i class="social-google"></i>Google+</a></li>
-                  </ul>
-                  <p class="text-overflow">
-                     Everything you're seeing here is pulled through dynamically from the WordPress admin panel. Simply go to your user profile, fille out the URLs to your social media profiles, fill in the biographical info, and you're good to go!
-                  </p>
-               </div>-->
-               </div>
-               </div>
-               </section>
+     <section class="mo-content">
+         <div class="row">
+            <div class="large-12 columns">
+               <hr/> 
+            </div>
+         </div>
+      </section>
+
+     
+                           
+
+
                
          <?php include './footer_saopedro.php'; ?>
    </div>      
