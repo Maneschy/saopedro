@@ -59,13 +59,10 @@
                 
                 	<a class="button tiny radius gray">Embalagens com: </a> <!--
                     <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="clara" title="Embalagem com 350 gramas de clara pasteurizada">350 gramas </a>  -->
-<<<<<<< HEAD
+
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-clara-1k.jpg" data-fancybox-group="clara" title="Embalagem com 01 kilo de clara pasteurizada">01 kilo </a>  
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-clara-5k.jpg" data-fancybox-group="clara" title="Embalagem com 05 kilos de clara pasteurizada">05 kilos </a>  
-=======
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-1kilo.jpg" data-fancybox-group="clara" title="Embalagem com 01 kilo de clara pasteurizada">01 kilo </a>  
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/clara-5k.jpg" data-fancybox-group="clara" title="Embalagem com 05 kilos de clara pasteurizada">05 kilos </a>  
->>>>>>> origin/master
+
                 
               </div>
                 

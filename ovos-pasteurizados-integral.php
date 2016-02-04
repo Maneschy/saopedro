@@ -41,8 +41,7 @@
 
 <body>
    <div id="mo-wrapper">
-     t
-
+  
             <?php include './menu_saopedro.php'; ?>
       
 		<section class="mo-content">
@@ -59,13 +58,10 @@
                 
                 	<a class="button tiny radius gray">Embalagens com: </a> <!--
                     <a class="button tiny radius yellow fancybox preview" href="#" data-fancybox-group="integral" title="Embalagem com 350 gramas de ovo integral pasteurizado">350 gramas </a>  -->
-<<<<<<< HEAD
+
                     <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-ovo-1k.jpg" data-fancybox-group="integral" title="Embalagem com 01 kilo de ovo integral pasteurizado">01 kilo </a>  
                    <!-- <a class="button tiny radius yellow fancybox preview" href="img/embalagens/integral-5k.jpg" data-fancybox-group="integral" title="Embalagem com 01 kilo de ovo integral pasteurizado">05 kilos </a> --> 
-=======
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/ovo-liquido-1kilo.jpg" data-fancybox-group="integral" title="Embalagem com 01 kilo de ovo integral pasteurizado">01 kilo </a>  
-                    <a class="button tiny radius yellow fancybox preview" href="img/embalagens/integral-5k.jpg" data-fancybox-group="integral" title="Embalagem com 01 kilo de ovo integral pasteurizado">05 kilos </a>  
->>>>>>> origin/master
+
                 
               </div>
                 

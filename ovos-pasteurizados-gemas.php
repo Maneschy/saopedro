@@ -163,11 +163,9 @@
                   
                   	<div><!-- 1º sobre o ovo -->
                         <p>
-<<<<<<< HEAD
+
                             Quem já recebeu um conselho de alguém dizendo que a gema do ovo faz mal a saúde?<br/><br/>                                                                                    Ovos pasteurizados consiste no processo  térmico que consiste no emprego do ovo a temperatura de 65 grau por 3 minutos, com a finalidade de destruir microorganismos patogênicos, como a Salmonella, sem alteração sensível na constituição física do ovo ou parte dele.                                                        A Fazenda São Pedro disponibiliza o ovo líquido em garrafas de 1kg e                            de 5kg, em três versões:<br/>                                                        <strong>Claras pasteurizadas:</strong> Ideal para massas, suplementos, suspiros e merengues<br/>                            <strong>Gemas pasteurizadas:</strong> Ideal para confeitaria, panificação, maionese e molho<br/>                            <strong>Ovos pasteurizados:</strong> Ideal para massas, doces e confeitaria<br/><br/>                            
-=======
-                            Quem já recebeu um conselho de alguém dizendo que a gema do ovo faz mal a saúde?<br/><br/>                            Se você passou por isso, fique tranquilo, pois não foi o único, a gema do ovo contém Omega-3 na forma de DHA, que é a mesma gordura saudável encontrada nos peixes como o salmão.<br/><br/>                             O DHA é essencial para melhorar o relacionamento orgânico entre as células e o sistema nervoso, é bom para o cérebro, para o funcionamento dos olhos e para o controle de gorduras no sangue.<br/><br/>                            
->>>>>>> origin/master
+
                             
                            <h3>+ vantagem para o comerciante </h3> 
                            
